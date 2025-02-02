@@ -1,6 +1,6 @@
 # meditaciones
 
-1. Autor y responsable
+1. [Autor y responsable](./autor_y_responsable.md)
 1. El respeto y la ofensa
 1. Conflicto de autoridades
 1. La adoración
