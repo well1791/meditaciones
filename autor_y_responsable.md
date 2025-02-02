@@ -1,24 +1,30 @@
 # Autor y Responsable
 
-**Responsable**
-> Obligado a responder de algo o por alguien. [^1]
-
 **Autor**
-> Persona que es causa de algo. [^2]
+> Persona que es causa de algo. [^1]
 
-Otra manera de plantear la responsabilidad es "alguien que se hace cargo de las consecuencias", personalmente cuando pienso en alguien responsable, lo primero en mi mente es "es alguien que se hará cargo de las consecuencias", independientemente de quien sea el causante de dichas consecuencias.
+**Responsable**
+> Obligado a responder de algo o por alguien. [^2]
 
-Desde una perspectiva práctica se puede observar la diferencia usando como ejemplos: un subordinado, un supervisor y un jefe. Imaginemos un escenario donde el jefe le pide al supervisor un reporte de operaciones, luego, el supervisor llega a la sala de operaciones y observa un problema en cuestión, este problema a su vez fue causados por uno de los subordinados, y el supervisor entonces se encarga de resolver el problema en la medida posible.
+Otra manera de plantear la responsabilidad es "alguien que se hace cargo de las consecuencias".
 
-Analicemos lo siguiente:
+Personalmente, cuando pienso en alguien responsable, lo primero en mi mente es algo como "alguien que se hará cargo de las consecuencias", independientemente de quien sea el causante (autor) de dichas consecuencias.
 
-1. El causante del problema es el subordinado, esto lo convierte en "autor" del problema.
-1. El supervisor evidentemente es "responsable" de las consecuencias que sucedan bajo su supervisión, y como tal se da a la tarea de resolver el problema.
-1. El jefe al mismo tiempo es "responsable" de todo sobre lo que es jefe.
+Desde una perspectiva empírica se puede observar la diferencia usando como ejemplos: un subordinado, un supervisor y un jefe. Imaginemos un escenario donde el jefe le pide al supervisor un reporte de operaciones, luego, el supervisor llega a la sala de operaciones y observa un problema en cuestión, este problema a su vez fue causado por uno de los subordinados, el supervisor entonces se encarga de resolver el problema en la medida posible, y de entrar el reporte al jefe.
 
-Hay que ser explicitos en decir que, naturalmente se espera que el "autor" sea responsable de sus actos y que un "responsable" no es necesariamente autor.
+**Analicemos lo siguiente:**
+
+1. El causante del problema es el subordinado, esto hace que el subordinado sea el "autor" del problema.
+1. El autor debe hacerse consecuente de sus actos en la medida posible.
+1. Si el autor no consigue resolver su problema, el supervisor se vuelve "responsable" del mismo, y como tal intentará resolver el problema.
+1. El jefe recibe el reporte del supervisor, pero hay que considerar que el jefe es al mismo tiempo "responsable" de la compañía, así que si el problema hubiera escalado, en última instancia sería responsabilidad del jefe resolverlo.
+
+**Enseñanzas claves:**
+
+* Un autor debe ser responsable de sus decisiones
+* Un responsable no es necesariamente un autor
 
 Así pues la carga del responsable no es igual a la carga del autor.
 
-[^1]: https://dle.rae.es/responsable
-[^2]: https://dle.rae.es/autor
+[^1]: https://dle.rae.es/autor
+[^2]: https://dle.rae.es/responsable
