@@ -4,34 +4,32 @@ Es un tema filosófico que intenta responder de forma satisfactoria la relación
 
 El problema se plantea con base en estas premisas:
 
-  * ¿Existe el mal? Respuesta, sí porque ciertamente existe una apreciación innata de aquello que consideramos malo, como el sufrimiento o la injusticia, por ejemplo. Sin embargo, también es cierto que no existe una definición concreta del mal, que sea satisfactoria para todos en este mismo sentido, es decir, lo que para unos es normal para otros es malo, y así no tenemos una definición común y concreta del mismo tema.
+  * ¿Existe el mal? Respuesta, sí porque ciertamente existe una apreciación innata de aquello que consideramos malo, como el sufrimiento o la injusticia, por ejemplo. Sin embargo, también es cierto que no existe una definición concreta del mal que sea satisfactoria para todo y en el mismo sentido, es decir, la percepción tiende a verse como subjetiva.
   * ¿Existe Dios? Sí existe.
 
-Ahora, la segunda pregunta presupone muchos detalles sobre el título de Dios, pero, voy a a enfocarme concretamente en aquellas dos características que son el punto de análisis de este problema.
+Ahora, la segunda pregunta presupone muchos detalles sobre Dios, pero, voy a a enfocarme concretamente en aquellas dos características que son parte del problema.
 
   * Dios es omnipotente.
   * Dios es bueno.
 
-Luego, usando estas premisas, exploraremos las preguntas y respuestas que plantea el problema:
+Luego, usando estas premisas, se plantea que:
 
   * Si Dios es omnipotente, entonces, ¿Puede Dios eliminar el mal?
     * Si no puede, entonces no es omnipotente.
   * Si Dios es bueno, entonces, ¿Quiere Dios eliminar el mal?
     * Si no quiere, entonces no es bueno.
   * Si Dios puede y quiere eliminar el mal, entonces, ¿Por qué aún existe el mal?
-    * Si Dios puede y no quiere eliminar el mal, entonces, no es bueno, por tanto, no deberiamos prestarle atencion.
-    * Si Dios quiere y no puede eliminar el mal, entonces, no es omnipotente, por tanto, tampoco debería ser llamado Dios.
-    * En última instancia, no hay razón de creer en tal Dios.
+    * Si Dios puede y no quiere eliminar el mal, entonces, no es bueno.
+    * Si Dios quiere y no puede eliminar el mal, entonces, no es omnipotente.
+  * En última instancia
+    * Si Dios no es omnipotente, entonces no es Dios.
+    * Si Dios no es bueno, hay que desecharlo.
 
-Con esa serie de preguntas, creo que podemos tener una idea de las posibles conclusiones a las que llegaríamos a medida que profundizamos más los mismos argumentos.
+Este problema realmente esconde otro. Presume la definición de "bueno", además, es erroneo asumir que esta misma definición puede usarse de forma equivalente o intercambiable desde la perspectiva de Dios y el ser humano.
 
-Este problema realmente esconde otro problema, que en cuestión resulta ser la piedra de tropiezo que impide resolver el problema general. En resumen, es totalmente errado asumir que como sociedad mundial, en verdad tenemos una definición común y concreta de "bueno" y "malo", además, es erroneo asumir que esta misma definición puede usarse de forma equivalente o intercambiable desde la perspectiva de Dios y el ser humano.
+Si consideramos que la característica de que Dios sea bueno es afirmativa según la biblia, es decir, estamos tomando como verdad que la biblia dice "Dios es bueno", entonces, el problema del planteamiento está en no desarrollar la misma definición de "bueno" y "malo" a la luz de la biblia, como consecuencia, esto hace que caigamos en la trampa de querer resolver el problema usando significados y perspectivas que muy pudieran ser mutualmente excluyentes.
 
-Si consideramos que la característica de que Dios sea bueno es afirmativa según la biblia, entonces, el problema del planteamiento está en no desarrollar la misma definición de "bueno" y "malo" a la luz de la biblia. Como consecuencia, hace que caigamos en la trampa de querer resolver este problema usando significados y perspectivas que muy probablemente sean mutualmente excluyentes.
-
-Usualmente cuando pensamos en las definiciones de "bueno" y "malo" tenemos mayormente una opinión popular humanista, pero, evidentemente la misma definición no es totalmente satisfactoria para otras formas de pensamiento contemporaneo, ejemplo: veganismo, altruismo, etc.
-
-En este ensayo quiero presentar una razón de por qué es importante usar la perspectiva correcta para este problema, y finalmente, quiero concluir exponiendo la respuesta que le corresponde a esta problema.
+Usualmente cuando pensamos en las definiciones de "bueno" y "malo" tenemos mayormente una opinión popular "humanista", pero, evidentemente la misma definición no es totalmente satisfactoria para otras formas de pensamiento contemporaneo, ejemplo: lo que es bueno desde la perspectiva del veganismo, no es necesariamente bueno desde la perspectiva del budismo.
 
 ## La importancia de la fuente
 
