@@ -28,17 +28,24 @@ Si no sentimos emociones en primer lugar creo que nada tendría sentido, pues cu
 
 ### Sentir solo emociones positivas
 
-Entonces, Cómo identificamos la justicia o injusticia?. Es decir, si todo es positivo, no tenemos de que quejarnos pues la queja no sería posible, y vivir como morir sería igual de "positivo".
+Entonces, cómo identificamos la justicia o injusticia?. Es decir, si todo es positivo no tendíamos de que quejarnos pues la queja no sería posible, y tanto vivir como morir sería igual de "positivo". De nuevo aquí se pierde el sentido de la vida pues, tanto vivir como morir es igual de positivo.
+
+Además creo que sería incoherente. Ciertamente morir y vivir no es equivalente pues, si la vida es únicamente placentera, el dejar de sentir placer sería no deseado, pero ya que las emociones estarían limitadas a lo positivo, el dejar de sentir placer parecería ser positivo.
 
 ## Sufrimiento Físico
 
 Solo se puede sufrir físicamente si los nervios receptan el dolor, es decir: para sufrir físicamente ese necesario poder sentir dolor. Y ahora nuestra pregunta es: "Es útil el dolor"?
 
-La respuesta es sí, porque el dolor es una señal que nos indica que algo está mal y que debemos hacer algo para solucionarlo. Si no sintiéramos dolor, podríamos seguir haciendo cosas que nos están dañando sin darnos cuenta. Pero, esto no termina aquí.
+Bueno, el dolor es una señal que nos indica que algo está mal y que debemos reaccionar, sin dolor podríamos seguir haciendo cosas que nos están dañando sin darnos cuenta.
 
-Por ahora dibujemos una línea imaginar que represente:
- - El sufrimiento físico como un extremo del dolor
- - Nada de dolor en el centro (y nada de placer también)
- - Placer en el otro extremo (como el opuesto del dolor)
+Así pues, dibujemos una línea imaginaria que represente:
+ - El placer físico en el otro extremo (como el opuesto del dolor).
+ - Nada de placer ni dolor en el centro.
+ - El sufrimiento físico como un extremo del dolor.
 
-Entonces, si pudieramos eliminar el dolor físico, ¿sería mejor?.
+Aquí volvemos a tener el mismo dilema que con las emociones.
+
+  1. Un mundo sin dolor/placer, no tendría sentido.
+  2. Un mundo donde todo sea placer, no podría diferenciar entre lo justo y lo injusto. Vivir y morir pierden su sentido, lo feo se vuelve placentero, sería dificil definir la "verguenza" o identificar la "belleza" pues todo sería igual.
+
+## El problema del sufrimiento
