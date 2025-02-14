@@ -52,8 +52,10 @@ Aquí volvemos a tener el mismo dilema que con las emociones. Un mundo sin dolor
 
 Entonces, no se podría diferenciar entre lo justo y lo injusto. Vivir y morir pierden su sentido, lo feo se vuelve placentero, sería imposible definir la "verguenza" o identificar la "belleza" pues todo sería igual, y si todo es igual, nada tiene sentido ni propósito.
 
-## Entendiendo el problema del sufrimiento?
+## Entendiendo el problema del sufrimiento
 
 Aceptemos entonces el hecho de que tanto el percibir dolor como emociones negativas son útiles para tener sentido.
 
 La pregunta que aún queda en el aire es: Por qué Dios permite el sufrimiento?
+
+Bueno, ya que el dolor es permitido y las emociones negativas también, entonces es necesario permitir el libre actuar del hombre, pues si limitamos la libertad, caemos en el mismo error de no sentir emociones negativas o únicamente sentir placer físico.
