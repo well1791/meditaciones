@@ -54,8 +54,14 @@ Entonces, no se podría diferenciar entre lo justo y lo injusto. Vivir y morir p
 
 ## Entendiendo el problema del sufrimiento
 
-Aceptemos entonces el hecho de que tanto el percibir dolor como emociones negativas son útiles para tener sentido.
-
 La pregunta que aún queda en el aire es: Por qué Dios permite el sufrimiento?
 
-Bueno, ya que el dolor y las emociones negativas son útiles, entonces es necesario permitir el libre actuar del hombre. Si limitamos la libertad de las acciones, caemos en el mismo error de no sentir emociones negativas o únicamente sentir placer físico.
+Bueno, ya que el dolor y las emociones negativas son útiles, entonces es necesario permitir el libre actuar del hombre, si en cambio limitamos la libertad de las acciones, caemos en el mismo error de no sentir emociones negativas o únicamente sentir placer físico.
+
+Pero, bien podríamos decir: "La idea es evitar el sufrimiento, no impedir el dolor"
+
+Pues, para ello Dios debería limitar las acciones de los hombres, acorde a su juicio, pues desde la perspectiva de Dios, el "sufrimiento humano" no es equivalente al de nuestra percepción, y según su propio criterio tendremos dos opciones:
+  - Quitar la libertad de actuar del hombre.
+  - Permitir la libertad de actuar del hombre.
+
+En última instancia, los sufrimientos que hemos evidenciado, es justamente una consecuencia a largo plazo del actuar del hombre.
