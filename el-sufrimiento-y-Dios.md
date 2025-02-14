@@ -36,16 +36,24 @@ Además creo que sería incoherente. Ciertamente morir y vivir no es equivalente
 
 Solo se puede sufrir físicamente si los nervios receptan el dolor, es decir: para sufrir físicamente ese necesario poder sentir dolor. Y ahora nuestra pregunta es: "Es útil el dolor"?
 
-Bueno, el dolor es una señal que nos indica que algo está mal y que debemos reaccionar, sin dolor podríamos seguir haciendo cosas que nos están dañando sin darnos cuenta.
+Bueno, el dolor es una señal que nos indica que algo está mal y que debemos reaccionar, sin dolor podríamos seguir haciendo cosas que nos están dañando sin darnos cuenta, es decir, es útil.
 
-Así pues, dibujemos una línea imaginaria que represente:
+Pero para extender la idea del dolor sobre sufrimiento dibujemos una línea imaginaria que represente lo siguiente:
  - El placer físico en el otro extremo (como el opuesto del dolor).
  - Nada de placer ni dolor en el centro.
  - El sufrimiento físico como un extremo del dolor.
 
-Aquí volvemos a tener el mismo dilema que con las emociones.
 
-  1. Un mundo sin dolor/placer, no tendría sentido.
-  2. Un mundo donde todo sea placer, no podría diferenciar entre lo justo y lo injusto. Vivir y morir pierden su sentido, lo feo se vuelve placentero, sería dificil definir la "verguenza" o identificar la "belleza" pues todo sería igual.
+### Nada de placer ni dolor en el centro.
 
-## El problema del sufrimiento
+Aquí volvemos a tener el mismo dilema que con las emociones. Un mundo sin dolor/placer, no tendría sentido.
+
+### Un mundo donde todo sea placer
+
+Entonces, no se podría diferenciar entre lo justo y lo injusto. Vivir y morir pierden su sentido, lo feo se vuelve placentero, sería imposible definir la "verguenza" o identificar la "belleza" pues todo sería igual, y si todo es igual, nada tiene sentido ni propósito.
+
+## Entendiendo el problema del sufrimiento?
+
+Aceptemos entonces el hecho de que tanto el percibir dolor como emociones negativas son útiles para tener sentido.
+
+La pregunta que aún queda en el aire es: Por qué Dios permite el sufrimiento?
