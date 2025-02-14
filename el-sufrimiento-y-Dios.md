@@ -58,4 +58,4 @@ Aceptemos entonces el hecho de que tanto el percibir dolor como emociones negati
 
 La pregunta que aún queda en el aire es: Por qué Dios permite el sufrimiento?
 
-Bueno, ya que el dolor es permitido y las emociones negativas también, entonces es necesario permitir el libre actuar del hombre, pues si limitamos la libertad, caemos en el mismo error de no sentir emociones negativas o únicamente sentir placer físico.
+Bueno, ya que el dolor y las emociones negativas son útiles, entonces es necesario permitir el libre actuar del hombre. Si limitamos la libertad de las acciones, caemos en el mismo error de no sentir emociones negativas o únicamente sentir placer físico.
