@@ -73,7 +73,7 @@ Esto significa que en realidad, el sufrimiento es la consecuencia natural de la 
 
 Pero, todo esto nos permite plantear el sufrimiento en la perspectiva del "evento", es decir, pudiera Dios:
   - Evitar o cambiar el evento que desencadena el sufrimiento
-  - Condicionalmente evitar el sufrimiento percibido durante un evento
+  - Evitar el sufrimiento percibido durante un evento
 
 Por un lado tenemos la opción de que Dios "de alguna manera" evite o cambie el evento que desencadena o produce el sufrimiento, pensemos en esto como si Dios cambiara un eslabón de una cadena de eventos, de esa manera, el resto de eslabones nunca percibirian el sufrimiento. Por otro lado planteamos que Dios evite el sufrimiento percibido de forma condicional, es decir, el evento se desencadena según su secuencia natural de eventos, pero durante el evento el sufrimiento se vuelve imperceptible.
 
@@ -83,35 +83,26 @@ Por un lado tenemos la opción de que Dios "de alguna manera" evite o cambie el 
 Para que esto fuera posible, es necesario quitar la libertad de actuar del hombre. Imagina que consigues resolver una ecuación matemática y eres regresado en el tiempo al instante anterior del planteamiento, o te borran la memoria de todo lo ocurrido, o la solución simplemente desaparece; y en cualquiera de estos eventos pudieras ser consciente o no, al final sería injusto, pues cual es el sentido de tener voluntad si no puedo ejercerla libremente.
 
 
-### Condicionalmente evitar el sufrimiento percibido durante un evento
+### Evitar el sufrimiento percibido durante un evento
 
-Para ello planteemos las condiciones:
-  - Sufrimiento justificado
-  - Sufrimiento injustificado
+Generalmente es en este escenario se plantea evitar el sufrimiento injustificado. El planteamiento del sufrimiento según su justificación es que desde nuestra perspectiva, vemos "aprobado" el sufrimiento que un evento ha de causar sobre una persona, por ejemplo: aprobamos el sufrimiento de un genocida, y así también juzgamos como injustificado aquel que no aprobamos, por ejemplo: una niña de 2 años con cáncer.
 
-El planteamiento del sufrimiento justificado es que desde nuestra perspectiva, vemos "aprobado" el sufrimiento que un evento ha de causar sobre una persona, por ejemplo: aprobamos el sufrimiento de un genocida. Por el contrario un sufrimiento injustificado es aquel que no aprobamos, por ejemplo: una niña de 2 años con cáncer.
-
-
-## El problema con la justificación
-
-Es un problema de perspectiva, prácticamente nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios, entonces, tomando el caso de "evitar el sufrimiento", si Dios es capaz de evitar la percepción de sufrimiento (porque nosotros no podemos) entonces él debería someter su capacidad a nuestra voluntad para satisfacer nuestro sentido de justicia, esto hace incoherente considerar a Dios un ser absolutamente trascedental.
+El problema con la justificación es la perspectiva. Prácticamente, nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios, entonces, tomando el caso de "evitar el sufrimiento", si Dios es capaz de evitar la percepción de sufrimiento (porque nosotros no podemos) entonces él debería someter su capacidad a nuestra voluntad para satisfacer nuestro sentido de justicia, esto hace incoherente considerar a Dios un ser absolutamente trascedental.
 
 Otro problema es que la justificación desde la perspectiva humana es subjetiva, porque aunque pudieras tener "mayoría" de votos sobre un juicio, no es posible garantizar la "totalidad", pues es probable que la persona juzgada no esté de acuerdo, pero, aún si todos estuvieran de acuerdo (incluso el que es juzgado), la pregunta es: Cómo puedes determinar que el sufrimiento es recibido en justa medida en relación su juicio (?).
 
-En resumen, el problema con la "justificación" es que no es absolutamente "justa" sino "parcialmente justa", pero nunca "justa". Sin embargo, exploremos la idea de la justificación parcial.
+En resumen, el problema con la "justificación" es que no es absolutamente "justa" sino "parcialmente justa", pero nunca "justa".
+
+Sin embargo, exploremos la idea de que Dios "evita la percepción de sufrimiento durante un evento".
+
+Consideremos el ejemplo de una niña de 2 años con cáncer, en este escenario esperamos que Dios evite el sufrimiento por el tiempo que dure el cáncer, ya sea que al final se recupere o muera.
 
 
-### Sufrimiento "justificado"
-
-Si el sufrimiento es justificado, entonces es válido.
-
-
-### Sufrimiento injustificado
-
-Solucion: liberar endorfinas para amortiguar el dolor hasta la muerte ?
 
 
 ## Extendiendo el problema del sufrimiento
+
+Solucion: liberar endorfinas para amortiguar el dolor hasta la muerte ?
 
 Pero, aún podemos seguir argumentando en cuanto al sufrimiento.
 
