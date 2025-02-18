@@ -89,7 +89,7 @@ Para ello planteemos dos casos:
 El planteamiento del sufrimiento justificado es que desde nuestra perspectiva, vemos "aprobado" el sufrimiento que un evento ha de causar sobre una persona, por ejemplo: aprobamos el sufrimiento de un genocida. Por el contrario un sufrimiento injustificado es aquel que no aprobamos, por ejemplo: una niña de 2 años con cáncer.
 
 
-#### El problema con la justificación
+## El problema con la justificación
 
 Prácticamente es que nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios. Este razonamiento significa que, si Dios es capaz (porque nosotros no) entonces él debería someter su capacidad a nuestra juicio para satisfacer nuestra justicia.
 
@@ -98,12 +98,12 @@ Por otro lado la justificación desde la perspectiva humana es subjetiva, porque
 En resumen, el problema con la "justificación" es que no es absolutamente "justa", así pues, la justificación es "parcialmente justa", pero nunca "justa". Sin embargo, exploremos la idea de la justificación parcial.
 
 
-#### Sufrimiento "justificado"
+### Sufrimiento "justificado"
 
 Si el sufrimiento es justificado, entonces es válido.
 
 
-#### Sufrimiento injustificado
+### Sufrimiento injustificado
 
 Solucion: liberar endorfinas para amortiguar el dolor hasta la muerte ?
 
