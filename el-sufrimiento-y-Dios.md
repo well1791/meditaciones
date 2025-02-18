@@ -91,16 +91,16 @@ El planteamiento del sufrimiento justificado es que desde nuestra perspectiva, v
 
 #### El problema con la justificación
 
-Prácticamente es que nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios. Este razonamiento significa que, si Dios es capaz (porque nosotros no) entonces él debería someter su capacidad a nuestra juicio.
+Prácticamente es que nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios. Este razonamiento significa que, si Dios es capaz (porque nosotros no) entonces él debería someter su capacidad a nuestra juicio para satisfacer nuestra justicia.
 
-Por otro lado la justificación desde la perspectiva humana es subjetiva, porque aunque pudieras tener "mayoría" de votos sobre un juicio, no es posible garantizar la "totalidad", porque es probable que la persona juzgada no esté de acuerdo, pero, aún si todos estuvieran de acuerdo (incluso el que es juzgado), cómo puedes determinar que el sufrimiento es recibido en justa medida en relación su juicio (?).
+Por otro lado la justificación desde la perspectiva humana es subjetiva, porque aunque pudieras tener "mayoría" de votos sobre un juicio, no es posible garantizar la "totalidad", porque es probable que la persona juzgada no esté de acuerdo, pero, aún si todos estuvieran de acuerdo (incluso el que es juzgado), la pregunta es: Cómo puedes determinar que el sufrimiento es recibido en justa medida en relación su juicio (?).
 
-El problema con la "justificación" es que no es absolutamente "justa", asi pues, la justificación es "parcialmente justa", pero nunca "justa". Sin embargo, exploremos la idea de la justificación parcial.
+En resumen, el problema con la "justificación" es que no es absolutamente "justa", así pues, la justificación es "parcialmente justa", pero nunca "justa". Sin embargo, exploremos la idea de la justificación parcial.
 
 
-#### Sufrimiento justificado
+#### Sufrimiento "justificado"
 
-Si el sufrimiento es justificado, entonces es aceptable.
+Si el sufrimiento es justificado, entonces es válido.
 
 
 #### Sufrimiento injustificado
@@ -112,5 +112,7 @@ Solucion: liberar endorfinas para amortiguar el dolor hasta la muerte ?
 
 Pero, aún podemos seguir argumentando en cuanto al sufrimiento.
 
-
 Deberia eliminar la muerte para evitar que alguien sufra el dolor de la muerte?
+
+
+## El sufrimiento es útil?
