@@ -72,17 +72,20 @@ Respuesta: Por la libre voluntad del hombre.
 Esto significa que en realidad, el sufrimiento es la consecuencia natural de la libertad del hombre, una consecuencia que pudiera tardar años, décadas o incluso generaciones en surtir efecto, pero que al final es un evento más de una secuencia de acciones. Creo que históricamente podemos evidenciar que el sufrimiento a lo largo del tiempo: cáncer y deterioros genéticos, pandemias y enfermedades, desastres naturales por cambios climáticos, genocidios, pobreza, etc... Todo es justamente una consecuencia a largo plazo de libre actuar del hombre.
 
 Pero, todo esto nos permite plantear el sufrimiento en la perspectiva del "evento", es decir, pudiera Dios:
-  - Quitar o cambiar el evento que produce el sufrimiento
-  - Condicionalmente quitar el sufrimiento durante un evento trágico
+  - Evitar o cambiar el evento que desencadena el sufrimiento
+  - Condicionalmente evitar el sufrimiento percibido durante un evento
 
-### Quitar o cambiar el evento que produce el sufrimiento
+Por un lado tenemos la opción de que Dios "de alguna manera" evite o cambie el evento que desencadena o produce el sufrimiento, pensemos en esto como si Dios cambiara un eslabón de una cadena de eventos, de esa manera, el resto de eslabones nunca percibirian el sufrimiento. Por otro lado planteamos que Dios evite el sufrimiento percibido de forma condicional, es decir, el evento se desencadena según su secuencia natural de eventos, pero durante el evento el sufrimiento se vuelve imperceptible.
+
+
+### Evitar o cambiar el evento que desencadena el sufrimiento
 
 Para que esto fuera posible, es necesario quitar la libertad de actuar del hombre. Imagina que consigues resolver una ecuación matemática y eres regresado en el tiempo al instante anterior del planteamiento, o te borran la memoria de todo lo ocurrido, o la solución simplemente desaparece; y en cualquiera de estos eventos pudieras ser consciente o no, al final sería injusto, pues cual es el sentido de tener voluntad si no puedo ejercerla libremente.
 
 
-### Condicionalmente quitar el sufrimiento durante un evento trágico
+### Condicionalmente evitar el sufrimiento percibido durante un evento
 
-Para ello planteemos dos casos:
+Para ello planteemos las condiciones:
   - Sufrimiento justificado
   - Sufrimiento injustificado
 
@@ -91,11 +94,11 @@ El planteamiento del sufrimiento justificado es que desde nuestra perspectiva, v
 
 ## El problema con la justificación
 
-Prácticamente es que nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios. Este razonamiento significa que, si Dios es capaz (porque nosotros no) entonces él debería someter su capacidad a nuestra juicio para satisfacer nuestra justicia.
+Es un problema de perspectiva, prácticamente nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios, entonces, tomando el caso de "evitar el sufrimiento", si Dios es capaz de evitar la percepción de sufrimiento (porque nosotros no podemos) entonces él debería someter su capacidad a nuestra voluntad para satisfacer nuestro sentido de justicia, esto hace incoherente considerar a Dios un ser absolutamente trascedental.
 
-Por otro lado la justificación desde la perspectiva humana es subjetiva, porque aunque pudieras tener "mayoría" de votos sobre un juicio, no es posible garantizar la "totalidad", porque es probable que la persona juzgada no esté de acuerdo, pero, aún si todos estuvieran de acuerdo (incluso el que es juzgado), la pregunta es: Cómo puedes determinar que el sufrimiento es recibido en justa medida en relación su juicio (?).
+Otro problema es que la justificación desde la perspectiva humana es subjetiva, porque aunque pudieras tener "mayoría" de votos sobre un juicio, no es posible garantizar la "totalidad", pues es probable que la persona juzgada no esté de acuerdo, pero, aún si todos estuvieran de acuerdo (incluso el que es juzgado), la pregunta es: Cómo puedes determinar que el sufrimiento es recibido en justa medida en relación su juicio (?).
 
-En resumen, el problema con la "justificación" es que no es absolutamente "justa", así pues, la justificación es "parcialmente justa", pero nunca "justa". Sin embargo, exploremos la idea de la justificación parcial.
+En resumen, el problema con la "justificación" es que no es absolutamente "justa" sino "parcialmente justa", pero nunca "justa". Sin embargo, exploremos la idea de la justificación parcial.
 
 
 ### Sufrimiento "justificado"
