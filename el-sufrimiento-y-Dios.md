@@ -75,21 +75,21 @@ Pero, todo esto nos permite plantear el sufrimiento en la perspectiva del "event
   - Evitar o cambiar el evento que desencadena el sufrimiento
   - Evitar el sufrimiento percibido durante un evento
 
-Por un lado tenemos la opción de que Dios "de alguna manera" evite o cambie el evento que desencadena o produce el sufrimiento, pensemos en esto como si Dios cambiara un eslabón de una cadena de eventos, de esa manera, el resto de eslabones nunca percibirian el sufrimiento. Por otro lado planteamos que Dios evite el sufrimiento percibido de forma condicional, es decir, el evento se desencadena según su secuencia natural de eventos, pero durante el evento el sufrimiento se vuelve imperceptible.
+Por un lado tenemos la opción de que Dios "de alguna manera" evite o cambie el evento que desencadena o produce el sufrimiento, pensemos en esto como si Dios cambiara un eslabón de una cadena de eventos, de esa manera, el resto de eslabones nunca percibirian el sufrimiento. Por otro lado planteamos que Dios evite el sufrimiento percibido de forma condicional, es decir, el evento se desencadena según su secuencia natural de eventos, pero durante el evento el sufrimiento se vuelve imperceptible (como estar sedado).
 
 
 ### Evitar o cambiar el evento que desencadena el sufrimiento
 
-Para que esto fuera posible, es necesario quitar la libertad de actuar del hombre. Imagina que consigues resolver una ecuación matemática y eres regresado en el tiempo al instante anterior del planteamiento, o te borran la memoria de todo lo ocurrido, o la solución simplemente desaparece; y en cualquiera de estos eventos pudieras ser consciente o no, al final sería injusto, pues cual es el sentido de tener voluntad si no puedo ejercerla libremente.
+Para que esto fuera posible, es necesario quitar la libertad de actuar del hombre. Imagina que consigues resolver una ecuación matemática y eres regresado en el tiempo al instante anterior del planteamiento, o te borran la memoria de todo lo ocurrido, o la solución simplemente desaparece; y en cualquiera de estos eventos pudieras ser consciente o no. Al final es injusto, pues cual es el sentido de tener voluntad si no puedo ejercerla libremente, cuál es el sentido de proyectar mi voluntad si no puedo ver los resultados de mi acción?.
 
 
 ### Evitar el sufrimiento percibido durante un evento
 
-Generalmente es en este escenario se plantea evitar el sufrimiento injustificado. El planteamiento del sufrimiento según su justificación es que desde nuestra perspectiva, vemos "aprobado" el sufrimiento que un evento ha de causar sobre una persona, por ejemplo: aprobamos el sufrimiento de un genocida, y así también juzgamos como injustificado aquel que no aprobamos, por ejemplo: una niña de 2 años con cáncer.
+Generalmente en este escenario se plantea evitar el sufrimiento injustificado. El planteamiento del sufrimiento según su justificación es que desde nuestra perspectiva, vemos "aprobado" el sufrimiento que un evento ha de causar sobre una persona, por ejemplo: aprobamos el sufrimiento de un genocida, y así también juzgamos como injustificado (el que no aprobamos), por ejemplo: una niña de 2 años con cáncer.
 
-El problema con la justificación es la perspectiva. Prácticamente, nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios, entonces, tomando el caso de "evitar el sufrimiento", si Dios es capaz de evitar la percepción de sufrimiento (porque nosotros no podemos) entonces él debería someter su capacidad a nuestra voluntad para satisfacer nuestro sentido de justicia, esto hace incoherente considerar a Dios un ser absolutamente trascedental.
+El problema con la justificación es la perspectiva. Prácticamente, nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios, entonces, tomando el caso de "evitar el sufrimiento", si Dios es capaz de evitar la percepción de sufrimiento entonces él debería someter su capacidad a nuestra voluntad, para satisfacer nuestro sentido de justicia, esto hace incoherente considerar a Dios como un ser absolutamente trascedental pues aparentemente "falla" en su capacidad de ejercer juicio sobre el sufrimiento.
 
-Otro problema es que la justificación desde la perspectiva humana es subjetiva, porque aunque pudieras tener "mayoría" de votos sobre un juicio, no es posible garantizar la "totalidad", pues es probable que la persona juzgada no esté de acuerdo, pero, aún si todos estuvieran de acuerdo (incluso el que es juzgado), la pregunta es: Cómo puedes determinar que el sufrimiento es recibido en justa medida en relación su juicio (?).
+Otro problema es que la justificación desde la perspectiva humana es subjetiva, porque, aunque pudieras tener "mayoría" de votos sobre un juicio, no es posible garantizar la "totalidad", pues es probable que la persona juzgada no esté de acuerdo, pero, aún si todos estuvieran de acuerdo (incluso el que es juzgado), la pregunta es: Cómo puedes determinar que el sufrimiento es recibido en justa medida en relación su juicio (?).
 
 En resumen, el problema con la "justificación" es que no es absolutamente "justa" sino "parcialmente justa", pero nunca "justa".
 
