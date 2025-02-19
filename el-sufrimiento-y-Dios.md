@@ -99,10 +99,10 @@ Sin embargo, exploremos la idea de que Dios "evita la percepción de sufrimiento
 
 Entonces, ¿Qué relación tiene "el cáncer de una niña de 2 años" con "el sentir de los allegados por la muerte de niña"?
 
-Ambos parecen ser sufrimientos injustos, por tanto Dios debería evitar el sufrimiento en ambos casos. El razonamiento aquí es que el sufrimiento causado por la muerte es tan natural como el cáncer, y que si "evitamos" el sufrimiento causado por la muerte, entonces, debemos también modificar la premisa de las "consecuencias del pecado".
+Ambos parecen ser sufrimientos injustos, por tanto Dios debería evitar el sufrimiento en ambos casos. Mi respuesta aquí es que el sufrimiento causado por la muerte es tan natural como el cáncer, y que si "evitamos" el sufrimiento causado por la muerte, entonces, debemos también modificar la premisa de las "consecuencias del pecado".
 
-El problema en este razonamiento es que desde la perspectiva biblica, es que tanto la percepción de la muerte como la vida, ambas están relacionada al sufrimiento, entonces, para evitar el sufrimiento, debemos modificar las "consecuencias del pecado" (la muerte).
+Quiero decir que, desde la perspectiva biblica tanto la percepción de la muerte como la vida, ambas están relacionada al sufrimiento, es decir son inseparables del sufrimiento, por ejemplo: el desgaste por la vejez, la muerte de personas allegadas, la enfermedad, todo esto es parte del "vivir" pero también está descrito como parte de las "consecuencias del pecado", así pues, para evitar el sufrimiento, debemos modificar las "consecuencias del pecado".
 
-Aquí debemos entendar que, ya que el sufrimiento es la consecuencia de una secuencia de eventos, para "quitar" el evento (que desencadena el sufrimiento) es necesario modificar la historia a costa de quitar la libertad de actuar al hombre, y así tambien que para quitar la "percepción del sufrimiento", debemos modificar las consecuencias del pecado.
+Aquí debemos entendar que, ya que el sufrimiento es la consecuencia de una secuencia de eventos, para quitar el evento (que desencadena el sufrimiento) es necesario modificar la historia a costa de quitar la libertad de actuar al hombre, y así tambien que para quitar la "percepción del sufrimiento", debemos modificar las consecuencias del pecado.
 
 En última instancia, el sufrimiento (en sus diversas manifestaciones) existe por causa del pecado, y cualquier modificación posible para evitar el sufrimiento, debe cambiar la naturaleza del pecado.
