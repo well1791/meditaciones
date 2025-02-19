@@ -106,3 +106,13 @@ Quiero decir que, desde la perspectiva biblica tanto la percepción de la muerte
 Aquí debemos entendar que, ya que el sufrimiento es la consecuencia de una secuencia de eventos, para quitar el evento (que desencadena el sufrimiento) es necesario modificar la historia a costa de quitar la libertad de actuar al hombre, y así tambien que para quitar la "percepción del sufrimiento", debemos modificar las consecuencias del pecado.
 
 En última instancia, el sufrimiento (en sus diversas manifestaciones) existe por causa del pecado, y cualquier modificación posible para evitar el sufrimiento, debe cambiar la naturaleza del pecado.
+
+## Las consecuencias del pecado
+
+En Génesis 3:15 se introduce el pecado como parte de la maldición del mundo. Pero, previo al pecado se pueden observar un par de puntos importantes:
+  - La muerte no es posible.
+  - Dios y el hombre tenían una relación directa.
+
+Estos puntos explican parte de la naturaleza del pecado:
+  - La muerte física entra al mundo.
+  - Dios y el hombre ya no tienen una relación directa, esto suele ser llamado "muerte espiritual".
