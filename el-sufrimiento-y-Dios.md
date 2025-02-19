@@ -60,7 +60,7 @@ Aquí volvemos a tener el mismo dilema que con las emociones. Un mundo sin dolor
 
 ### Sentir solo placer físico
 
-Entonces, no se podría diferenciar entre lo justo y lo injusto. Si todo fuera placentero, sería imposible definir la "verguenza" o identificar la "belleza" pues todo sería igual, y si todo es igual, nada tiene sentido ni propósito.
+Otra vez, tenemos un escenario similar a lo que sucede con las emociones, pues si todo fuera placentero, estar sentado o estar de pie, recibir golpes o caricias son equivalentes, pero luego tenemos un problema con la justificación de lo que percibimos, es decir, una violación deja de ser justificable porque al final se vuelve placentera.
 
 
 ## Entendiendo el problema del sufrimiento
