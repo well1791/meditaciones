@@ -97,7 +97,7 @@ A todo esto, es importante recordar que el sufrimiento es la consecuencia de una
 
 Sin embargo, exploremos la idea de que Dios "evita la percepción de sufrimiento durante un evento", para ello tomemos el ejemplo de una niña de 2 años con cáncer. En este escenario esperamos que Dios evite el sufrimiento por el tiempo que dure el cáncer, independientemente de si al final muere o se recupera, pero, también vamos a considerar a los allegados de la niña en el escenario de su muerte.
 
-Entonces, ¿Qué relación tiene "el cáncer de una niña de 2 años" con "el sentir de los allegados de la muerte de niña"?
+Entonces, ¿Qué relación tiene "el cáncer de una niña de 2 años" con "el sentir de los allegados por la muerte de niña"?
 
 Ambos parecen ser sufrimientos injustos, por tanto Dios debería evitar el sufrimiento en ambos casos. El razonamiento aquí es que el sufrimiento causado por la muerte es tan natural como el cáncer, y que si "evitamos" el sufrimiento causado por la muerte, entonces, debemos también modificar la premisa de las "consecuencias del pecado".
 
