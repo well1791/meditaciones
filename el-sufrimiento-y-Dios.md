@@ -93,20 +93,16 @@ Otro problema es que la justificación desde la perspectiva humana es subjetiva,
 
 En resumen, el problema con la "justificación" es que no es absolutamente "justa" sino "parcialmente justa", pero nunca "justa".
 
-Sin embargo, exploremos la idea de que Dios "evita la percepción de sufrimiento durante un evento".
+A todo esto, es importante recordar que el sufrimiento es la consecuencia de una serie de eventos, y que las consecuencias no necesitan justificación pues son el efecto natural de una causa previa.
 
-Consideremos el ejemplo de una niña de 2 años con cáncer, en este escenario esperamos que Dios evite el sufrimiento por el tiempo que dure el cáncer, ya sea que al final se recupere o muera.
+Sin embargo, exploremos la idea de que Dios "evita la percepción de sufrimiento durante un evento", para ello tomemos el ejemplo de una niña de 2 años con cáncer. En este escenario esperamos que Dios evite el sufrimiento por el tiempo que dure el cáncer, independientemente de si al final muere o se recupera, pero, también vamos a considerar a los allegados de la niña en el escenario de su muerte.
 
+Entonces, ¿Qué relación tiene "el cáncer de una niña de 2 años" con "el sentir de los allegados de la muerte de niña"?
 
+Ambos parecen ser sufrimientos injustos, por tanto Dios debería evitar el sufrimiento en ambos casos. El razonamiento aquí es que el sufrimiento causado por la muerte es tan natural como el cáncer, y que si "evitamos" el sufrimiento causado por la muerte, entonces, debemos también modificar la premisa de las "consecuencias del pecado".
 
+El problema en este razonamiento es que desde la perspectiva biblica, es que tanto la percepción de la muerte como la vida, ambas están relacionada al sufrimiento, entonces, para evitar el sufrimiento, debemos modificar las "consecuencias del pecado" (la muerte).
 
-## Extendiendo el problema del sufrimiento
+Aquí debemos entendar que, ya que el sufrimiento es la consecuencia de una secuencia de eventos, para "quitar" el evento (que desencadena el sufrimiento) es necesario modificar la historia a costa de quitar la libertad de actuar al hombre, y así tambien que para quitar la "percepción del sufrimiento", debemos modificar las consecuencias del pecado.
 
-Solucion: liberar endorfinas para amortiguar el dolor hasta la muerte ?
-
-Pero, aún podemos seguir argumentando en cuanto al sufrimiento.
-
-Deberia eliminar la muerte para evitar que alguien sufra el dolor de la muerte?
-
-
-## El sufrimiento es útil?
+En última instancia, el sufrimiento (en sus diversas manifestaciones) existe por causa del pecado, y cualquier modificación posible para evitar el sufrimiento, debe cambiar la naturaleza del pecado.
