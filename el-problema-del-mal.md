@@ -73,7 +73,7 @@ De la misma forma, si existe un Dios tan trascendentalmente diferente, la única
 
 Entonces, retomando el problema del mal, el primer error que surge al querer resolverlo, es que intentamos mezclar el concepto humano de bien y mal con el que corresponde usar desde la perspectiva de Dios mismo. Es decir, la perspectiva de Dios que define el bien y mal debe ser, por cuestiones de capacidad, parcialmente iguales a las del hombre pues el hombre es la única criatura con capaz de razonar y entender, pero, por extensión de entendimiento, la definición de bien y mal de Dios debe ser en extremo diferente a la del hombre.
 
-El análisis anterior aunque parece contradictorio, pero se puede explicar de la siguiente manera: De forma natural podemos asociar percepciones innecesariamente desagradables como experiencias que no queremos repetir, para reconocer este fenómeno en términos humanos le atribuimos la palabra "mal" o "malo", por ejemplo: el dolor físico o la depresión. Pero, ciertamente también podríamos confundir aquello que es "malo" como "bueno", por ejemplo: regalar dinero no parece necesariamente malo, pero si la persona que recibe el dinero lo usa para holgazanear o lo consume en vicios nosivos, entonces, normalmente concluimos en que esa ayuda realmente no resultó ser buena, sino por el contrario, fue mala. Esto significa que debido a esta limitante natural para percibir el alcance total de lo bueno y lo malo, obligadamente nos hace tener una definición parcial de los mismos conceptos, y por consecuencia, siempre tendremos una perspectiva subjetiva del bien y del mal.
+El análisis anterior aunque parece contradictorio, se puede explicar de la siguiente manera: De forma natural podemos asociar percepciones innecesariamente desagradables como experiencias que no queremos repetir, para reconocer este fenómeno en términos humanos le atribuimos la palabra "mal" o "malo", por ejemplo: el dolor físico o la depresión. Pero, ciertamente también podríamos confundir aquello que es "malo" como "bueno", por ejemplo: regalar dinero no parece necesariamente malo, pero si la persona que recibe el dinero lo usa para holgazanear o lo consume en vicios nosivos, entonces, normalmente concluimos en que esa ayuda realmente no resultó ser buena, sino por el contrario, fue mala. Esto significa que debido a esta limitante natural para percibir el alcance total de lo bueno y lo malo, obligadamente nos hace tener una definición parcial de los mismos conceptos, y por consecuencia, siempre tendremos una perspectiva subjetiva del bien y del mal.
 
 ### Analizando la biblia
 
@@ -91,7 +91,7 @@ Al final del día sexto, Dios ha creado la primera pareja; Adán y Eva. Sabemos 
 
 Luego, Dios ve su creación y dice: "era bueno en gran manera". Y finalmente, la biblia describe que todo esto sucedió en la tarde y la mañana del día sexto.
 
-Si observamos el uso de la palabra "bueno", vemos que Dios enfatiza que las capacidades y limitaciones con que decidió crear al ser humano, eran aprobadas, correctas, y buenas en toda la extensión de Su entendimiento divino.
+Si observamos el uso de la palabra "bueno", vemos que Dios aprueba las capacidades y limitaciones con que decidió crear al ser humano, eran buenas en toda la extensión de Su entendimiento divino.
 
   > -- Génesis 2
   >
