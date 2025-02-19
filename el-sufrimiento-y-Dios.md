@@ -109,7 +109,7 @@ En última instancia, el sufrimiento (en sus diversas manifestaciones) existe po
 
 ## Las consecuencias del pecado
 
-En Génesis 3:15 se introduce el pecado como parte de la maldición del mundo. Pero, previo al pecado se pueden observar un par de puntos importantes:
+En Génesis 3 se introduce el pecado como parte de la maldición del mundo. Pero, previo al pecado se pueden observar un par de puntos importantes:
   - La muerte no es posible.
   - Dios y el hombre tenían una relación directa.
 
