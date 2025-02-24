@@ -1,4 +1,4 @@
-# El sufrimiento y Dios
+# Dios y el sufrimiento
 
 Empecemos con la definición de sufrimiento.
 
@@ -97,17 +97,21 @@ A todo esto, es importante recordar que el sufrimiento es la consecuencia de una
 
 Sin embargo, exploremos la idea de que Dios "evita la percepción de sufrimiento durante un evento", para ello tomemos el ejemplo de una niña de 2 años con cáncer. En este escenario esperamos que Dios evite el sufrimiento por el tiempo que dure el cáncer, independientemente de si al final muere o se recupera, pero, también vamos a considerar a los allegados de la niña en el escenario de su muerte.
 
-Entonces, ¿Qué relación tiene "el cáncer de una niña de 2 años" con "el sentir de los allegados por la muerte de niña"?
+Entonces, ¿Qué relación tiene "el cáncer de una niña de 2 años" con "el sentir de los allegados por la muerte de niña"? Si ambos parecen ser sufrimientos injustos, Dios debería evitar el sufrimiento en ambos casos (cierto?).
 
-Ambos parecen ser sufrimientos injustos, por tanto Dios debería evitar el sufrimiento en ambos casos. Mi respuesta aquí es que el sufrimiento causado por la muerte es tan natural como el cáncer, y que si "evitamos" el sufrimiento causado por la muerte, entonces, debemos también modificar la premisa de las "consecuencias del pecado".
+Mi respuesta aquí es que el sufrimiento causado por la muerte de alguien es tan natural como el cáncer mismo, es decir que el sufrimiento en sí mismo es parte de la naturaleza, pero, es necesario enfatizar que hablamos de una naturaleza pecaminosa.
 
-Quiero decir que, desde la perspectiva biblica tanto la percepción de la muerte como la vida, ambas están relacionada al sufrimiento, es decir son inseparables del sufrimiento, por ejemplo: el desgaste por la vejez, la muerte de personas allegadas, la enfermedad, todo esto es parte del "vivir" pero también está descrito como parte de las "consecuencias del pecado", así pues, para evitar el sufrimiento, debemos modificar las "consecuencias del pecado".
+Pensemos por un momento en una persona que vive 200 años, y digamos que en su vida tendra 4 ocaciones en que sufrirá (sea cual sea su sufrimiento). La pregunta que podríamos hacernos ahora es: Dios debería evitar esos 4 sufrimientos o sería suficiento con evitar al menos 1?
 
-Aquí debemos entendar que, ya que el sufrimiento es la consecuencia de una secuencia de eventos, para quitar el evento (que desencadena el sufrimiento) es necesario modificar la historia a costa de quitar la libertad de actuar al hombre, y así tambien que para quitar la "percepción del sufrimiento", debemos modificar las consecuencias del pecado.
+El pensar en esto nos trae a evaluar lo que ignoramos, ciertamente no sabemos cuántas veces Dios ha evitado que suframos, pero también es irreal un escenario donde "no suframos", pues ese un escenario donde no existe el pecado en el mundo. Dicho de otra manera, si "evitamos" todas las veces que haya sufrimiento, entonces, debemos también modificar la premisa de las "consecuencias del pecado".
 
-En última instancia, el sufrimiento (en sus diversas manifestaciones) existe por causa del pecado, y cualquier modificación posible para evitar el sufrimiento, debe cambiar la naturaleza del pecado.
+Quiero decir que, desde la perspectiva biblica tanto la percepción de la muerte como la vida, ambas están relacionada al sufrimiento, por ejemplo: el desgaste por la vejez, la muerte de personas allegadas, el dolor de una enfermedad, etc. Todo es parte del "vivir" y esto a su vez también es parte de las "consecuencias del pecado", así pues, para evitar el sufrimiento, debemos cambiar conceptualmente y realmente las "consecuencias del pecado".
 
-## Las consecuencias del pecado
+Desde una perspectiva más "lógica", podemos decir que ya que el sufrimiento es la consecuencia de una secuencia de eventos, para quitar el evento que desencadena el sufrimiento es necesario modificar la historia, y esto se hace a costa de quitar la libertad de actuar al hombre, y así tambien que para quitar la "percepción del sufrimiento", debemos alterar las consecuencias del pecado.
+
+En última instancia, el sufrimiento (en sus diversas manifestaciones) existe por causa del pecado, y cualquier modificación necesaria para evitar el sufrimiento debe a su vez cambiar la naturaleza del pecado, y la naturaleza del pecado es sufrimiento.
+
+## Breve explicación sobre las consecuencias del pecado
 
 En Génesis 3 se introduce el pecado como parte de la maldición del mundo. Pero, previo al pecado se pueden observar un par de puntos importantes:
   - Dios y el hombre tenían una relación directa.
@@ -115,4 +119,4 @@ En Génesis 3 se introduce el pecado como parte de la maldición del mundo. Pero
 
 Estos puntos explican parte de la naturaleza del pecado:
   - Dios y el hombre ya no tienen una relación directa, esto suele ser llamado "muerte espiritual".
-  - La muerte física entra al mundo.
+  - La muerte física entra al mundo y ahora el hombre también muere físicamente.
