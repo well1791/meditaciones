@@ -4,7 +4,7 @@
 
 # Los problemas del sistema
 
-## Preámbulo
+## Prefacio
 
 Este libro es el resultado de yo queriendo acomodar y ordenar mis ideas a fin de poder expresarlas de mejor manera a quien lo necesite. Además, no planteo hacer una defensa absoluta de todo lo que he escrito, ni quiero profundizar en ideas que, según mi juicio, probablemente no tengan mayor utilidad práctica.
 
