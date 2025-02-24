@@ -1,6 +1,6 @@
 # meditaciones
 
-1. [Autor y responsable](./autor_y_responsable.md)
+1. [Autor y responsable](./autor-y-responsable.md)
 1. [El respeto y la ofensa](./el-respeto-y-la-ofensa.md)
 1. [La adoración](./la-adoracion.md)
 1. [La perfección](./la-perfeccion.md)
