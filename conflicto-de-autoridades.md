@@ -12,9 +12,14 @@ Evidentemente una de las cosas que evaluamos siempre es la "consecuencia", es de
 
 ### Reconocimiento, consecuencia y obediencia
 
-Todo esto solo indica que la autoridad se determina en nuestra capacidad de obedecer y/o desobedecer.
+Todo esto parece indicar que la capacidad de la autoridad se determina en nuestra voluntad para obedecer y/o desobedecer.
 
-Piensa que "autoridad" es la capacidad de dar órdenes y de esperar que estas sean cumplidas
+Piensa que cuando pensamos en "autoridad", implicitamente cumple con dos condiciones:
+
+  - Tiene el poder para ordenar
+  - Sus ordenes son cumplidas
+
+Si sus ordenes no son cumplidas, aunque pueda "dar ordenes", su autoridad es nula, o sea que, es la efectividad del cumplimiento de sus ordenes lo que define la define como autoridad.
 
 =====
 
