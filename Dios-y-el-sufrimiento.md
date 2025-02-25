@@ -9,35 +9,37 @@ Empecemos con la definición de sufrimiento.
 >
 > fuente: https://dle.rae.es/sufrimiento
 
-Creo que para facilitar un poco el entendimiento de la definición de sufrimiento, podríamos clasificar el sufrimiento en dos categorías:
+A pesar de su significado, creo que para explorar su definición, podríamos clasificar el sufrimiento en dos categorías:
 
-- Emocional
-- Físico
+  - Emocional
+  - Físico
 
-Aunque hay que reconocer que ambas estan ligadas entre sí, pues el dolor físico puede generar emociones negativas y viceversa, pero separar ambas ideas nos permite entender mejor el sufrimiento.
+Pero, es importante reconocer que ambas estan ligadas entre sí, pues el dolor físico puede generar emociones negativas, así como las emociones negativas pueden producir efectos físicos. Sin embargo, quiero explorar la posibilidad de Dios evitandonos el sufrimiento en sus diversas manifestaciones.
 
 
-## Sufrimiento Emocional
+## Entendiendo el sufrimiento Emocional
 
-Inevitablemente para sentir sufrimiento emocional es necesario poder sentir emociones, pero imaginemos por un momento que podemos clasificar las emociones como: "negativas" o "positivas". Obviamente si las emociones negativas nos pueden llevar al sufrimiento, entonces nuestras 2 opciones a escoger son:
+Inevitablemente para sentir sufrimiento emocional es necesario sentir emociones pero, imaginemos por un momento que podemos clasificar las emociones como: "negativas" o "positivas". Y obviamente, si las emociones negativas nos pueden llevar al sufrimiento, entonces nuestras 2 opciones a escoger son:
+
   - No sentir emociones
-  - Sentir solo emociones positivas.
+  - Sentir solo emociones positivas
 
 
 ### No sentir emociones
 
+En un mundo donde no es posible sentir emociones: ni negativas, ni positivas, personalmente creo que nada tendría sentido, pues, ¿Cuál sería el sentido de hacer algo si no sentimos nada en ningún momento en absoluto?, ¿Cómo podríamos justificar el hacer algo si no sentimos la motivación de hacer algo?
 
-Si no sentimos emociones personalmente creo que nada tendría sentido. Pues, cuál sería el sentido de hacer algo si no sentimos nada en ningún momento en absoluto? ¿Cómo podríamos justificar el hacer algo sin sentir la motivación de hacer algo? A falta de emociones, la vida y la muerte dejan de tener sentido, sería como un robot, seríamos como las piedras, pues sin risa ni dolor no hay necesidad de musculos o nervios.
+Pienso que a falta de emociones, seríamos como robots esperando a que nos ordenen hacer algo, o como piedras y no haríamos nada por voluntad propia, o tal vez seríamos aún como plantas haciendo lo necesario para sobrevivir sin consciencia de ello, pero no estaríamos ni de cerca de los animales, porque sin emociones para manifestar la risa o el llanto, no hay necesidad de músculos en el rostro o nervios para expresar emociones, por ejemplo: el sistema hormonal sería el mismo para todos los humanos.
 
 
 ### Sentir solo emociones positivas
 
-Entonces, cómo identificamos la justicia o injusticia?. Es decir, si todo es positivo no tendíamos de que quejarnos pues la queja no sería posible, y tanto vivir como morir sería igual equivalentemente "positivo". De nuevo, aquí se pierde el sentido de la vida pues, si tanto vivir como morir es igual de positivo, da igual el morir o matar, el dañar o destruir, ciertamente no habría sufrimiento pero la creación sería un caos.
+En un mundo donde solo se pueda sentir emociones positivas. ¿Cómo identificamos la justicia o injusticia?. Es decir, si todo es positivo no tendíamos de que quejarnos pues la queja no sería posible, y tanto vivir como morir sería igualmente "positivo". De nuevo, aquí se pierde el sentido de la vida pues, si tanto vivir como morir es igual de positivo, da igual el morir o matar, el dañar o destruir porque no habría sufrimiento.
 
-Además creo que hay un punto de incoherente, en un mundo así ciertamente morir y vivir no es equivalente pues, si la vida es únicamente placentera entonces vivir se vuelve "deseable" (y esto es una emoción positiva), pero la muerte equivalente a dejar de sentir placer debería ser "no deseable" (emoción negativa), pero ya que las emociones estarían limitadas a lo positivo, entonces el dejar de "sentir placer" es incoherentemente "deseable".
+Además, creo que hay un punto de incoherencia, en un mundo así ciertamente morir y vivir no son equivalentes pues, si la vida es únicamente placentera entonces vivir se vuelve "deseable" (emoción positiva), pero la muerte que es equivalente a "dejar de sentir placer" lógicamente debería ser "no deseable" (emoción negativa), pero, ya que las emociones estarían limitadas a lo positivo, entonces el dejar de "sentir placer" se vuelve incoherentemente "deseable".
 
 
-## Sufrimiento Físico
+## Entendiendo el sufrimiento físico
 
 Solo se puede sufrir físicamente si los nervios receptan el dolor, es decir: para sufrir físicamente ese necesario poder sentir dolor. Y ahora nuestra pregunta es: "Es útil el dolor"?
 
