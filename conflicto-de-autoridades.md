@@ -2,7 +2,7 @@
 
 La palabra "autoridad" es mayormente asociada a algun tipo de liderazgo o rol de mando por algun gobierno, y solo eso pero, tendemos a mezclar la idea de que la autoridad puede ser una cosa en sí misma, o que puede ser una persona también. Por ejemplo: decimos que las leyes de un país son autoridad pero, también decimos que el presidente es la máxima autoridad de un país, y aquí podríamos preguntar "¿Quién tiene la autoridad total: la ley o el presidente?". Sabemos que el presidente se convierte en presidente gracias a la ley pero, también el presidente tiene todo el derecho de cambiar la ley. El dilema en este ejemplo sirve para ilustrar los problemas de la falta de definición concreta, en la realidad sabemos que esta situación no es un problema pues hay procesos establecidos para resolverlo.
 
-En mi experiencia, cuando reconocemos alguien (o algo) como atoridad, entendemos inmediatamente que podría haber malas consecuencias si no obedecemos lo ha ordenado. Además, sabemos que las autoridades pueden ser diferentes y sabemos que es posible obedecer (o no) a voluntad propia, pero, entonces una pregunta importante es:
+En mi experiencia, cuando reconocemos alguien (o algo) como atoridad, entendemos inmediatamente que podría haber malas consecuencias si no obedecemos. Además, sabemos que las autoridades pueden ser diferentes y sabemos que es posible obedecer a voluntad propia, pero, entonces una pregunta importante es:
 
 > ¿Por qué no tenemos la misma percepción de "obediencia" hacia todas las autoridades?
 
@@ -22,9 +22,9 @@ Curiosamente siempre que obedecemos una orden estamos satisfaciendo la voluntad 
 
 Finalmente un efecto en cuanto a la obediencia es la **consecuencia**, que es tan importante como la orden, y que de hecho determina mucho de lo que asociamos en cuanto a la autoridad, pues nuestra "obediencia" tiende a depender de las "consecuencias".
 
-Para unir todas estas ideas, pensemos en las leyes de tránsito, leyes que reconocemos como **autoridad**. Primeramente las leyes existen por **voluntad** de algunas personas, y la **audiencia** son quienes usen las vías de tránsito, esta audiencia a su vez tiene voluntad para **obedecer/desobedecer**, pero, toda ley tiene una **consecuencia** por desobediencia.
+Para unir todas estas ideas, pensemos en las leyes de tránsito, leyes que reconocemos como **autoridad**. Primeramente las leyes existen por **voluntad** de algunas personas cualquiera que haya sido el proceso, y la **audiencia** son quienes usen las vías de tránsito, esta audiencia a su vez tiene voluntad para **obedecer/desobedecer**, y al mismo tiempo toda ley tiene una **consecuencia** por desobediencia.
 
-Es interesante que aunque las consecuencias no son necesarias, desde la perspectiva de la autoridad es conveniente, y esto se debe particularmente a la naturaleza humana de juzgar como mejor la percepción propia. Retomando el ejemplo de las leyes de tránsito, imaginemos por un momento que no hay consecuencias (multas) por superar el límite de velocidad, es poco probable que todos obedezcan la ley, más bien la historia ha demostrado que la obediencia tiende a depender de las consecuencias.
+Es interesante que aunque las consecuencias no son necesarias, desde la perspectiva de la autoridad es conveniente, y esto se debe particularmente a la naturaleza humana de juzgar "mejor" por criterio propio. Para analizar la importancia de las consecuencias, retomemos el ejemplo de las leyes de tránsito e imaginemos por un momento que no hay consecuencias (multas) por superar el límite de velocidad establecido en una vía, es poco probable que todos obedezcan la ley, de hecho, la historia ha demostrado que la obediencia tiende a depender de las consecuencias.
 
 ## Dunno yet
 
