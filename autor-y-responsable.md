@@ -1,10 +1,18 @@
 # Autor y Responsable
 
-**Autor**
-> Persona que es causa de algo. [^1]
+> **Autor**
+> 1. Persona que es causa de algo.
+>
+> 1. Persona que inventa algo.
+>
+> fuente: https://dle.rae.es/autor
 
-**Responsable**
-> Obligado a responder de algo o por alguien. [^2]
+> **Responsable**
+> 1. Obligado a responder de algo o por alguien.
+>
+> 1. Dicho de una persona: Que pone cuidado y atención en lo que hace o decide.
+>
+> fuente: https://dle.rae.es/responsable
 
 Otra manera de plantear la responsabilidad es "alguien que se hace cargo de las consecuencias".
 
@@ -26,5 +34,5 @@ Desde una perspectiva empírica se puede observar la diferencia usando como ejem
 
 Así pues la carga del responsable no es igual a la carga del autor.
 
-[^1]: https://dle.rae.es/autor
+[^1]:
 [^2]: https://dle.rae.es/responsable

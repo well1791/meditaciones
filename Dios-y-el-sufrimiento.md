@@ -2,10 +2,10 @@
 
 Empecemos con la definición de sufrimiento.
 
-> 1. m. Padecimiento, dolor, pena. Sin.: padecimiento, dolor, pena, angustia, daño, mal, tortura, dolencia, malestar, achaque, trago.
+> **Sufrimiento**
+> 1. Padecimiento, dolor, pena.
 >
-> 2. m. Paciencia, conformidad, tolerancia con que se sufre algo.
->   Sin.: tolerancia, paciencia, conformidad, aguante.
+> 1. Paciencia, conformidad, tolerancia con que se sufre algo.
 >
 > fuente: https://dle.rae.es/sufrimiento
 
