@@ -2,30 +2,37 @@
 
 La palabra "autoridad" es mayormente asociada a algun tipo de liderazgo o rol de mando por algun gobierno, y solo eso pero, tendemos a mezclar la idea de que la autoridad puede ser una cosa en sí misma, o que puede ser una persona también. Por ejemplo: decimos que las leyes de un país son autoridad pero, también decimos que el presidente es la máxima autoridad de un país, y aquí podríamos preguntar "¿Quién tiene la autoridad total: la ley o el presidente?". Sabemos que el presidente se convierte en presidente gracias a la ley pero, también el presidente tiene todo el derecho de cambiar la ley. El dilema en este ejemplo sirve para ilustrar los problemas de la falta de definición concreta, en la realidad sabemos que esta situación no es un problema en realidad.
 
-En mi experiencia, cuando reconocemos alguien (o algo) como atoridad, entendemos inmediatamente que podría haber malas consecuencias si no obedecemos lo que la autoridad ordena. Además sabemos que las autoridades pueden ser diferentes y sabemos que es posible obedecer (o no) a voluntad propia, pero la pregunta importante es:
+En mi experiencia, cuando reconocemos alguien (o algo) como atoridad, entendemos inmediatamente que podría haber malas consecuencias si no obedecemos lo ha ordenado. Además, sabemos que las autoridades pueden ser diferentes y sabemos que es posible obedecer (o no) a voluntad propia, pero, entonces una pregunta importante es:
 
 > ¿Por qué no tenemos la misma percepción de "obediencia" hacia todas las autoridades?
 
-Respuesta: Porque no todas las autoridades tienen el mismo poder, o la "capacidad de reflejar su voluntad en la realidad".
+Respuesta: Porque no todas las autoridades tienen el mismo poder, y por poder me refiero a la "capacidad de reflejar su voluntad en la realidad".
 
-Evidentemente una de las cosas que evaluamos siempre es la "consecuencia", es decir: "Qué es capaz de hacer si desobedecemos?". Por ello, más allá de reconocer autoridades (por su poder), también las clasificamos según su poder, y obdecemos según podamos obdecer (pues es posible que obedecer contra la voluntad propia).
+Evidentemente una de las cosas que evaluamos en relación a la autoridad es la "consecuencia" de obedecer (o desobedecer), es decir: ¿Qué es capaz de hacer si desobedecemos?. Por ello, más allá de reconocer autoridades (por su poder), también las clasificamos según su poder, y consecuentemente obdecemos según se **quiera** y se **pueda**.
 
-### Reconocimiento, consecuencia y obediencia
+## Autoridad y audiencia
 
-Todo esto parece indicar que la capacidad de la autoridad se determina en nuestra voluntad para obedecer y/o desobedecer.
+Todo esto parece indicar que la capacidad de la autoridad se determina en nuestra voluntad para obedecer y/o desobedecer, pero, no es del todo así, yo considero que la autoridad cumple con 3 rasgos importantes:
 
-Piensa que cuando pensamos en "autoridad", implicitamente cumple con dos condiciones:
+  - Tiene **voluntad** para dar ordenes -  Sin voluntad para ordenar, no tiene sentido seguir hablando de autoridad, pues no se puede obedecer aquello que no se ha ordenado.
+  - Tiene **audiencia** para ordenar - Aquí es necesario separar quién ordena y quién recibe la orden, así pues, siempre es una relación de dos.
+  - Tiene **poder** para hacer cumplir su voluntad - Si sus ordenes no son cumplidas, aunque pueda "dar ordenes", su autoridad se vuelve nula, o sea que, la efectividad del cumplimiento de sus ordenes define la autoridad como tal.
 
-  - Tiene el poder para ordenar
-  - Sus ordenes son cumplidas
+Curiosamente siempre que obedecemos una orden estamos satisfaciendo la voluntad de alguien. Así pues, en cuanto a la audiencia la regla más evidente es su voluntad para **obedecer/desobedecer** ordenes, esto no implica que sea capaz de hacerlo, es decir, es posible recibir ordenes que son imposibles de cumplir.
 
-Si sus ordenes no son cumplidas, aunque pueda "dar ordenes", su autoridad es nula, o sea que, es la efectividad del cumplimiento de sus ordenes lo que define la define como autoridad.
+Finalmente un efecto en cuanto a la obediencia es la **consecuencia**, que es tan importante como la orden, y que de hecho determina mucho de lo que asociamos en cuanto a la autoridad, pues nuestra "obediencia" tiende a depender de las "consecuencias".
+
+Para unir todas estas ideas, pensemos en las leyes de tránsito, leyes que reconocemos como **autoridad**. Primeramente las leyes existen por **voluntad** de algunas personas, y la **audiencia** son quienes usen las vías de tránsito, esta audiencia a su vez tiene voluntad para **obedecer/desobedecer**, pero, toda ley tiene una **consecuencia** por desobediencia.
+
+Es interesante que aunque las consecuencias no son necesarias, desde la perspectiva de la autoridad es conveniente, y esto se debe particularmente a la naturaleza humana de juzgar como mejor la percepción propia. Retomando el ejemplo de las leyes de tránsito, imaginemos por un momento que no hay consecuencias (multas) por superar el límite de velocidad, es poco probable que todos obedezcan la ley, más bien la historia ha demostrado que la obediencia tiende a depender de las consecuencias.
+
+## Dunno yet
+
 
 =====
 
-Now, authority is a role only possible for anything that is able to give orders, and all order are messages in its basic form. If the authority expects its order to be fulfilled then, the word authority must be directly related with two other words: _"obedience"_ and _"will"_. First, if there is no obedience, then we can say the authority is not effective, which means that, such authority doesn't represent any priority to the person receiving the order. Second, assuming that we are authorities, if we don't feel any will or desire that we want to be fulfilled, then there is no need for us to give an order, hence, because of our lack of will there's no need foruse to be authorities.
-
-The relationship between _"authority"_ and _"will"_ is always implicit; in fact, any time we fulfill an order, we are fulfilling someone else's will. Let's take the civil laws as example; these laws exist because they were the agreement of multiple people, which means; the origin of the laws comes from some people's will. On the other hand there's _"obedience"_, whenever we obey it's because we consider that some order came from a recognized authority, this recognition is subjective. If you think about someone giving an order multiple times, the longer the authority wait for his order to be fulfilled, the sooner you start to realize that this authority is not effective; to me this example looks like the authority is not giving an order but requesting a favor.
+On the other hand there's _"obedience"_, whenever we obey it's because we consider that some order came from a recognized authority, this recognition is subjective.
+If you think about someone giving an order multiple times, the longer the authority wait for his order to be fulfilled, the sooner you start to realize that this authority is not effective; to me this example looks like the authority is not giving an order but requesting a favor.
 
 How do we explain the relationship between authority and disobedience? Answer is: We are always obeying an authority whether we like it or not. Wenever we disobey an authority is just because there's a higher authority we want to obey, so in the end we actually choose to obey the authority we like the most. Now you may think: "Well, in my experience I can decide whether to obey or not orders from the same authority, I don't really have obey all orders from a specific authority, but also I'm not obeying anyone else". Fair enough but, the thing is: If you disobey an authority, you're actually obeying someone else, and that "someone else" could be your own authority, or in other words; your own will. The moment you think that some rule or command from the current authority doesn't looks good or right, you're judging authority based on your own criteria, and if your criteria is more convincing or appealing, in the end you'll end up obeying to yourself.
 
