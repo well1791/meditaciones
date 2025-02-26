@@ -127,10 +127,12 @@ En última instancia, el sufrimiento (en sus diversas manifestaciones) existe po
 
 ## Explicación breve sobre las consecuencias del pecado
 
-En Génesis 3 se introduce el pecado como parte de la maldición del mundo. Pero, previo al pecado se pueden observar un par de puntos importantes:
-  - Dios y el hombre tenían una relación directa.
-  - La muerte física no es parte del plan.
+En Génesis 3 se introduce el pecado y a su vez la maldición del mundo. Pero, previo al pecado se pueden observar un par de puntos importantes:
 
-Estos puntos explican parte de la naturaleza del pecado:
+  - Dios y el hombre tenían una relación directa.
+  - La muerte física no existe.
+
+Estos puntos explican parte de las consecuencias del pecado:
+
   - Dios y el hombre ya no tienen una relación directa, esto suele ser llamado "muerte espiritual".
   - La muerte física entra al mundo y ahora el hombre también muere físicamente.
