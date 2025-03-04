@@ -71,13 +71,13 @@ Si consideramos a un padre y su hijo, decimos que el niño aún esta descubriend
 
 De la misma forma, si existe un Dios tan trascendentalmente diferente, la única forma que tenemos de conocer sus atributos es si Dios mismo toma la iniciativa de instruirnos sobre su propia identidad, y aún en esta situación, Dios debe limitar su instrucción de tal forma que la información sea entendible en nuestras capacidades limitadas.
 
-Entonces, retomando el problema del mal, el primer error que surge al querer resolverlo, es que intentamos mezclar el concepto humano de bien y mal con el que corresponde usar desde la perspectiva de Dios mismo. Es decir, la perspectiva de Dios que define el bien y mal debe ser, por cuestiones de capacidad, parcialmente iguales a las del hombre pues el hombre es la única criatura con capaz de razonar y entender, pero, por extensión de entendimiento, la definición de bien y mal de Dios debe ser en extremo diferente a la del hombre.
+Entonces, retomando el problema del mal, el primer error que surge al querer resolverlo, es que intentamos mezclar el concepto humano de bien y mal con el que corresponde usar desde la perspectiva de Dios mismo. Es decir, la perspectiva de Dios que define el bien y mal debe ser, por cuestiones de capacidad, parcialmente iguales a las del hombre pues el hombre es la única criatura con capacidad de razonar y entender, pero, por extensión de entendimiento, la definición de bien y mal de Dios debe ser en extremo diferente a la del hombre.
 
-El análisis anterior aunque parece contradictorio, se puede explicar de la siguiente manera: De forma natural podemos asociar percepciones innecesariamente desagradables como experiencias que no queremos repetir, para reconocer este fenómeno en términos humanos le atribuimos la palabra "mal" o "malo", por ejemplo: el dolor físico o la depresión. Pero, ciertamente también podríamos confundir aquello que es "malo" como "bueno", por ejemplo: regalar dinero no parece necesariamente malo, pero si la persona que recibe el dinero lo usa para holgazanear o lo consume en vicios nosivos, entonces, normalmente concluimos en que esa ayuda realmente no resultó ser buena, sino por el contrario, fue mala. Esto significa que debido a esta limitante natural para percibir el alcance total de lo bueno y lo malo, obligadamente nos hace tener una definición parcial de los mismos conceptos, y por consecuencia, siempre tendremos una perspectiva subjetiva del bien y del mal.
+El análisis anterior aunque pareciera contradictorio, se puede explicar de la siguiente manera: De forma natural podemos asociar percepciones innecesariamente desagradables como experiencias que no queremos repetir, para reconocer este fenómeno en términos humanos le atribuimos la palabra "mal" o "malo", por ejemplo: el dolor físico o la depresión. Pero, ciertamente también podríamos confundir aquello que es "malo" como "bueno", por ejemplo: regalar dinero no parece necesariamente malo, pero si la persona que recibe el dinero lo usa para holgazanear o lo consume en vicios nosivos, entonces, normalmente concluimos en que esa ayuda realmente no resultó ser buena, sino por el contrario, fue mala. Esto significa que debido a esta limitante natural para percibir el alcance total de lo bueno y lo malo, obligadamente nos hace tener una definición parcial de los mismos conceptos, y por consecuencia, siempre tendremos una perspectiva subjetiva del bien y del mal, según nuestras propias definiciones.
 
 ### Analizando la biblia
 
-Para desarrollar los conceptos de "bueno" y "malo", podemos hacer una observación analítica del Génesis en sus primeros capítulos.
+Para desarrollar los conceptos de "bueno" y "malo", debemos hacer una observación del Génesis en sus primeros capítulos.
 
   > -- Génesis 1
   >
@@ -113,7 +113,7 @@ Volviendo al tema de la capacidad del hombre, consideremos como ejemplo los cuch
   >
   > -- Traducción NBLA (Nueva Biblia de las Américas).
 
-Aunque parezca que el capítulo tres introduce el inicio de la existencia del mal, realmente no es así. La existencia del mal es introducido en el capítulo dos, en la advertencia que Dios hace al hombre sobre la desobediencia. Desde la perspectiva de Dios, desobedecer la voluntad de Él es la definición misma de mal, por ende, el mal debe existir primero antes de que el ser humano pueda tener capacidad de hacer mal.
+Aunque parezca que el capítulo tres introduce el inicio de la existencia del mal, realmente no es así. La existencia del mal es introducido en el capítulo dos, en la advertencia que Dios hace al hombre sobre la desobediencia. Desde la perspectiva de Dios, desobedecer la voluntad de Él es la definición misma de mal, por ende, el mal debe existir primero, es decir antes de que el ser humano pueda tener capacidad de hacer mal.
 
 Pero entonces, ¿Qué presenta el capítulo tres? Presenta la ejecución del mal, el actuar en pos de esta capacidad de desobediencia es lo que sucede por primera vez en este capítulo tres.
 
