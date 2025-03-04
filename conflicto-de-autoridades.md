@@ -35,10 +35,9 @@ Es interesante que aunque las consecuencias no son necesarias, desde la perspect
 
 ## Orden y obediencia
 
-
 =====
 
-If you think about someone giving an order multiple times, the longer the authority wait for his order to be fulfilled, the sooner you start to realize that this authority is not effective; to me this example looks like the authority is not giving an order but requesting a favor.
+If you think about someone giving an order multiple times, the longer the authority waits for its order to be fulfilled, the sooner you start to realize that this authority is not effective; to me this looks like the authority is not giving an order but requesting a favor.
 
 How do we explain the relationship between authority and disobedience? Answer is: We are always obeying an authority whether we like it or not. Wenever we disobey an authority is just because there's a higher authority we want to obey, so in the end we actually choose to obey the authority we like the most. Now you may think: "Well, in my experience I can decide whether to obey or not orders from the same authority, I don't really have obey all orders from a specific authority, but also I'm not obeying anyone else". Fair enough but, the thing is: If you disobey an authority, you're actually obeying someone else, and that "someone else" could be your own authority, or in other words; your own will. The moment you think that some rule or command from the current authority doesn't looks good or right, you're judging authority based on your own criteria, and if your criteria is more convincing or appealing, in the end you'll end up obeying to yourself.
 
