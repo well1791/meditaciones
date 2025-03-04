@@ -19,7 +19,7 @@ Pero, es importante reconocer que ambas estan ligadas entre sí, pues el dolor f
 
 ## Entendiendo el sufrimiento Emocional
 
-Inevitablemente para sentir sufrimiento emocional es necesario sentir emociones pero, imaginemos por un momento que podemos clasificar las emociones como: "negativas" o "positivas". Y obviamente, si las emociones negativas nos pueden llevar al sufrimiento, entonces nuestras 2 opciones a escoger son:
+Inevitablemente para sentir sufrir emocionalmente es necesario sentir emociones pero, imaginemos por un momento que podemos clasificar las emociones como: "negativas" o "positivas". Y obviamente, si las emociones negativas nos llevan al sufrimiento, entonces nuestras 2 opciones a escoger son:
 
   - No sentir emociones
   - Sentir solo emociones positivas
@@ -27,23 +27,23 @@ Inevitablemente para sentir sufrimiento emocional es necesario sentir emociones 
 
 ### Escenario 1: No sentir emociones
 
-En un mundo donde no es posible sentir emociones: ni negativas, ni positivas, personalmente creo que nada tendría sentido, pues, ¿Cuál sería el sentido de hacer algo si no sentimos nada en ningún momento en absoluto?, ¿Cómo podríamos justificar el hacer algo si no sentimos la motivación de hacer algo?
+En un mundo donde no es posible sentir emociones: ni negativas, ni positivas, me parece que nada tendría sentido, pues ¿Cómo podríamos justificar el hacer algo si no sentimos la motivación de hacer algo en absoluto?
 
-Pienso que a falta de emociones, seríamos como robots esperando a que nos ordenen hacer algo, o como piedras y no haríamos nada por voluntad propia, o tal vez seríamos aún como plantas haciendo lo necesario para sobrevivir sin consciencia de ello, pero no estaríamos ni de cerca de los animales, porque sin emociones para manifestar la risa o el llanto, no hay necesidad de músculos en el rostro o nervios para expresar emociones, en cualquier caso, no seríamos humanos y seguramente este ensayo no existiría.
+Pienso que a falta de emociones, seríamos como robots esperando a que nos ordenen hacer algo, o como piedras y no haríamos nada por voluntad propia, o tal vez seríamos aún como plantas haciendo lo necesario para sobrevivir sin consciencia de nosotros mismos, me atrevo a decir que no estaríamos ni cerca de parecernos a los animales, pues hasta los animales manifiestan emociones. Sin emociones para manifestar la risa o el llanto, no hay necesidad de músculos en el rostro o nervios para expresar esas mismas emociones, imaginar un mundo como tal es imaginar un mundo donde no seríamos humanos (tal y como nos conocemos).
 
 
 ### Escenario 2: Sentir solo emociones positivas
 
-En un mundo donde solo se pueda sentir emociones positivas. ¿Cómo identificamos la justicia o injusticia?. Es decir, si todo es positivo no tendíamos de qué quejarnos pues la queja no sería posible, y tanto vivir como morir sería igualmente "positivo". De nuevo, aquí se pierde el sentido de la vida pues, si tanto vivir como morir es igual de positivo, resulta igual morir o matar, construir y destruir.
+En un mundo donde solo se pueda sentir emociones positivas. ¿Cómo identificamos la justicia o injusticia?. Es decir, si todo es positivo no tendíamos de qué quejarnos pues la queja no sería posible, y tanto vivir como morir sería igualmente "positivo". Aquí se pierde el sentido de la vida pues, si tanto vivir como morir es "igual de positivo", resulta igual morir o matar, construir o destruir, sanar o dañar, es un absurdo de igualdades.
 
-Además, creo que hay un punto de incoherencia. En un mundo así ciertamente morir y vivir no son equivalentes pues, si la vida es únicamente placentera entonces vivir se vuelve "deseable" (emoción positiva), pero la muerte que es equivalente a "dejar de sentir placer" lógicamente debería ser "no deseable" (emoción negativa), pero, ya que las emociones estarían limitadas a lo positivo, entonces la muerte (dejar de sentir placer) se vuelve incoherentemente "deseable".
+Además, creo que hay un punto de incoherencia. En un mundo así ciertamente morir y vivir no son equivalentes pues, si la vida es únicamente placentera entonces vivir se vuelve "deseable" (emoción positiva), pero la muerte que es equivalente a "dejar de sentir placer" lógicamente debería ser "no deseable" (emoción negativa), pero, ya que las emociones estarían limitadas a lo positivo, entonces la muerte se vuelve incoherentemente "deseable".
 
 
 ## Entendiendo el sufrimiento físico
 
-Solo se puede sufrir físicamente si los nervios receptan el dolor, es decir: para sufrir físicamente ese necesario poder sentir dolor. Y ahora nuestra pregunta es: ¿Es útil el dolor?
+Solo se puede sufrir físicamente si los nervios receptan el dolor, es decir: para sufrir físicamente es necesario poder sentir dolor. Y ahora nuestra pregunta es: ¿Es útil el dolor?
 
-Entre otras cosas el dolor es una señal útil para indicarnos que algo sobre lo que debemos reaccionar, o sea que, sin dolor podríamos hacernos daño y no ser conscientes de ello.
+Entre otras cosas el dolor es una señal útil para indicarnos algo sobre lo que debemos reaccionar, o sea que, sin dolor podríamos hacernos daño y no ser conscientes de ello.
 
 Pero, para extender la idea del dolor sobre el sufrimiento dibujemos una línea imaginaria que represente lo siguiente:
 
@@ -59,39 +59,40 @@ Y evaluemos las dos opciones que evitan el sufrimiento:
 
 ### Escenario 1: No sentir nada en absoluto
 
-En un mundo donde no es posible sentir físicamente nada, en primer lugar un no tiene sentido tener cuerpos, lo más razonable sería que todos seamos espíritus, y sobre esto evaluar que sentido tiene que siendo espirítus tengamos alguna percepción de emociones.
+En un mundo donde no es posible sentir físicamente nada, en primer lugar no tiene sentido tener cuerpos, lo más razonable sería que todos seamos espíritus, y sobre esto evaluar que sentido tiene que siendo espirítus tengamos alguna percepción de emociones.
 
-Pero, consideremos un mundo sin dolor/placer donde las sensaciones del cuerpo son nulas, y se siente igual estar sentado o de pie, correr o acostarse. Esto, hace sin sentido el uso de nervios, incapaces de sentir sabor, contacto físico, frío y calor; nuestro diseño como humanos sería totalmente diferente, y a su vez, también nuestro sentido de moralidad pues, en un mundo así no se puede justificar el maltrato "físico" principalmente porque no se siente.
-
-Un escenario extraño sería una violación sexual, por un lado es imposible de justificar tal acción porque desde la perspectiva del violador no hay ningúna satisfacción, pero, también es difícil de justificar desde la perspetiva de la victima porque tampoco siente nada.
+Pero, consideremos un mundo sin dolor/placer donde las sensaciones del cuerpo son nulas, y por ejemplo: se siente exactamente igual estar en movimiento, o sentado, o de pie, o acostado. Esto hace sin sentido el uso de nervios, incapaces de sentir sabor, contacto físico, frío y calor; nuestro diseño como humanos sería totalmente diferente, y a su vez, también nuestro sentido de moralidad pues, en un mundo así no se puede justificar el maltrato "físico" principalmente porque "no se siente".
 
 
 ### Escenario 2: Sentir solo placer físico
 
-En un mundo donde solo se puede sentir el placer físico, se vuelve más evidente el problema con el escenario de una violación física, pues, ahora la perspectiva de la victima se vuelve placentera, y como tal es poco probable de denuciarse, no solo eso, es que el acto de "denunciar" algo involucra una percepción contraria al placer, pero esto no sería posible en un mundo así.
+
+En un mundo donde solo se puede sentir el placer físico produce un escenario muy particular: una agresión sexual. Es difícil defender la perspectiva de la víctima, pues la agresión se vuelve placer y por consecuencia deja de ser agresión (o no?). Pero, supongamos que conseguimos denunciar al atacante, ¿Cuál es la penalización? Pues, todo es placer, el denunciar en vez de ser un momento para preocuparse se vuelve placentero, y así también el castigo. Sería un mundo absurdo.
 
 
 ## Entendiendo el problema del sufrimiento
 
-A pesar de haber explorado el sufrimiento bajo la percepción de emociones y sentir físico, no es suficiente para entender el sufrimiento, nada de esto responde la perspectiva del sufrimiento. Pudieramos sugerir que el dolor es necesario pero el sufrimiento no y de alguna manera trazar una limite entre ambos: dolor y sufrimiento, entonces, la pregunta que aún queda en el aire es: ¿Por qué Dios permite el sufrimiento?
+Sin embargo, a pesar de haber explorado el sufrimiento bajo la percepción de las emociones y el sentir físico, nada de esto parece ser suficiente para entender el sufrimiento. Dicho de otra manera, lo expuesto anteriormente no responde la perspectiva del sufrimiento, porque aún pudieramos sugerir que el dolor es necesario pero el sufrimiento no, y de alguna manera pudieramos trazar la linea que divide el dolor del sufrimiento, y entonces, la pregunta que aún queda en el aire es: ¿Por qué Dios permite el sufrimiento?
 
-Respuesta: En primera instancia por la libertad del hombre, y en última instancia por la naturaleza del pecado.
+Primero, debemos entender que el sufrimiento es la consecuencia natural de la libertad del hombre, una consecuencia que pudiera tardar años, décadas o incluso generaciones en surtir efecto. Esto lo vemos en la historia de los genocidios, pues todo asesino es el resultado de su juventud y niñez; lo vemos en el deterioro genético y enfermedades congénitas en parte debido a la endogamia, pero también a la exposición de elementos radiactivos, o al consumo de sustancias cancerigenas; vemos que ahora hay noticias relacionadas a los alimentos que contienen microplásticos, lo vemos en los sistemas de gobierno, en la riqueza y pobreza del mundo, lo vemos en los cataclismos naturales a causa del calentamiento global. Todo es un evento más de una secuencia de eventos, y todo lo que el mundo contiene sufre.
 
-Esto significa que en realidad, el sufrimiento es la consecuencia natural de la libertad del hombre, una consecuencia que pudiera tardar años, décadas o incluso generaciones en surtir efecto (cómo vemos ahora con los alimentos que contienen microplásticos), pero que al final es un evento más de una secuencia de eventos. Creo que históricamente podemos evidenciar que el sufrimiento a lo largo del tiempo: cáncer y deterioros genéticos, pandemias y enfermedades, desastres naturales por cambios climáticos, genocidios, pobreza, etc... todo es justamente una consecuencia a largo plazo del libre actuar del hombre.
+Pero, el escéptico puede pensar "¿Si Dios hace milagros, acaso no debería hacer milagros para evitar el sufrimiento?"
 
-Todo esto nos permite plantear el sufrimiento desde la perspectiva del "evento", es decir, pudiera Dios:
+Si los milagros se hicieran con la misma frecuencia que los sucesos normales, entonces ya no serían milagros, pues los milagros son excepciones a la norma. Pero, es importante entender "la norma", pues es Dios quien hace que el mundo sea consistencia, o acaso, ¿Cuándo ha dejado de ser la ley de gravedad? o ¿Cuándo el agua ha dejado de ser fluida? o ¿Cuándo el aire se ha vuelto pesado? ¿Quién explica el comportamiento de los átomos, o de otros microorganismos? Todo esto que obviamos es necesario para habitar en el mundo, pues es gracias a esta consistencia que existe la ciencia y tecnología, y que podemos anticipar el deseo de comer y preferir una comida a otra, pues si todo fuera un milagro, ¿Cómo puedes saber qué comida decidir si los sabores siempre cambiaran por milagros? Si Dios hiciera milagros para evitar el sufrimiento, el mundo perdería su consistencia, y el conocimiento de cómo funciona el mundo sería imposible.
+
+Pero, aún así podemos seguir sugiriendo ideas para evitar el sufrimiento, y por ejemplo: plantear el sufrimiento desde la perspectiva del "evento", es decir, pudiera Dios:
 
   - Evitar o cambiar el evento que desencadena el sufrimiento
   - Evitar el sufrimiento percibido durante un evento
 
-Por un lado tenemos la opción de que Dios "de alguna manera" evite o cambie el evento que desencadena o produce el sufrimiento, pensemos en esto como si Dios cambiara un eslabón de una cadena, de esa manera, el resto de la cadena nunca percibiria el sufrimiento precisamente porque Dios ha intervenido cambiando el eslabón que "desencadena el sufrimiento". Por otro lado planteamos que Dios evite el sufrimiento percibido, es decir, el evento se desencadena según su secuencia natural de eventos, pero durante el evento, el sufrimiento se vuelve imperceptible, similar a estar sedado pero consciente.
+Por un lado tenemos la opción de que Dios "de alguna manera" evite o cambie el evento que desencadena o produce el sufrimiento, pensemos en esto como si Dios cambiara un eslabón de una cadena, de esta manera el resto de la cadena nunca percibiría el sufrimiento porque Dios ha intervenido cambiando el eslabón que "desencadena el sufrimiento". Por otro lado planteamos que Dios evite el sufrimiento percibido, es decir, el evento se desencadena según su secuencia natural de eventos pero, durante el evento, el sufrimiento se vuelve imperceptible, similar a estar sedado.
 
 
 ### Escenario 1: Evitar o cambiar el evento que desencadena el sufrimiento
 
 Para que esto fuera posible, es necesario quitar la libertad de actuar del hombre.
 
-Imagina que consigues resolver una ecuación matemática y eres regresado en el tiempo al instante anterior al planteamiento de la ecuación, o que te borran la memoria de todo lo ocurrido, o que la solución simplemente desaparece; y en cualquiera de estos eventos pudieras estar consciente o no. Al final todo esto es injusto, pues, ¿Cuál es el sentido de tener voluntad si no puedo ejercerla libremente?, ¿Cuál es el sentido de proyectar mi voluntad si no puedo ver los resultados de mi acción?.
+Imagina que consigues resolver una ecuación matemática y eres regresado en el tiempo al instante anterior al planteamiento de la ecuación, o que te borran la memoria de todo lo ocurrido, o que la solución simplemente desaparece; y en cualquiera de estos eventos pudieras estar consciente o no. Al final todo esto es injusto, pues, ¿Cuál es el sentido de tener voluntad si no puedo ejercerla libremente?, ¿Cuál es el sentido de proyectar mi voluntad si no puedo ver los resultados de mi acción?
 
 
 ### Escenario 2: Evitar el sufrimiento percibido durante un evento
@@ -100,9 +101,9 @@ Generalmente en este escenario se plantea evitar el sufrimiento injustificado.
 
 El planteamiento del sufrimiento según su justificación es que desde nuestra perspectiva, vemos "aprobado" el sufrimiento que un evento ha de causar sobre una persona, por ejemplo: sí que aprobamos el sufrimiento de un genocida, pero, así también juzgamos como injustificado y desaprobado, por ejemplo: el cáncer en una niña de 2 años.
 
-El problema con la justificación es la perspectiva, nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios. Pensemos que según nuestra perspectiva humana, si Dios es capaz de evitar la percepción de sufrimiento entonces él debería someter su capacidad a nuestra voluntad para satisfacer nuestro sentido de justicia, pero, esto hace incoherente considerar a Dios como un ser absolutamente trascedental pues, aparentemente "falla" en su capacidad de ejercer juicio sobre el sufrimiento, y en su defecto nosotros somos más "capaces" de juzgar que él.
+El problema con la justificación es que nuestra perspectiva de justicia no es equivalente a la perspectiva de Dios. Pensemos que según nuestra perspectiva humana, si Dios es capaz de evitar la percepción de sufrimiento entonces él debería someter su capacidad (su omnipotencia) a nuestra voluntad para satisfacer nuestro sentido de justicia, pero, esto hace incoherente considerar a Dios como un ser absolutamente trascedental pues, aparentemente "falla" en su capacidad de ejercer juicio sobre el sufrimiento, y en su defecto nosotros somos más "capaces" de juzgar que él.
 
-Al problema anterior se suma que la justificación desde la perspectiva humana es subjetiva, porque, aunque pudieras tener "mayoría" de votos sobre un juicio (imagina un juicio de prisión a un genocida), no es posible garantizar la "totalidad" de votos, pues es probable que la persona juzgada (el genocida) no esté de acuerdo, pero, aún si todos estuvieran de acuerdo (incluso el genocida), la pregunta es: ¿Cómo puedes determinar que el sufrimiento recibido es en justa medida?.
+Al problema anterior se suma que la justificación desde la perspectiva humana es subjetiva, porque, aunque pudieras tener "mayoría" de votos sobre un juicio (imagina un juicio de prisión a un genocida), no es posible garantizar la "totalidad" de votos, pues es probable que la persona juzgada (el genocida) no esté de acuerdo. Pero, aún si todos estuvieran de acuerdo (incluso el genocida), la pregunta es: ¿Cómo puedes determinar que el sufrimiento recibido es en justa medida?.
 
 En resumen, el problema con la "justificación" es que nunca es absolutamente "justa" siempre es "subjetivamente justa".
 
@@ -112,17 +113,19 @@ Sin embargo, exploremos la idea de que Dios "evita la percepción de sufrimiento
 
 Entonces, ¿Qué relación tiene "el cáncer de una niña de 2 años" con "el dolor emocional de los allegados de la niña por su muerte"? Si ambos parecen ser sufrimientos injustos, ¿No debería Dios evitar el sufrimiento en ambos casos?
 
-Mi respuesta aquí es que el sufrimiento emocional causado por la muerte es tan natural como el sufrimiento físico causado por el cáncer, es decir, el sufrimiento es una parte inseparable de la naturaleza, pero, es necesario aclarar que hablamos de una naturaleza condenada por el pecado.
+Mi respuesta es que el sufrimiento emocional causado por la muerte es tan natural como el sufrimiento físico causado por el cáncer, es decir, el sufrimiento es una parte inseparable de la naturaleza, pero, es necesario aclarar que hablamos de una naturaleza condenada por el pecado.
 
 Pensemos por un momento en una persona que vive 200 años, y supongamos que en su vida tendrá cuatro ocaciones en que sufrirá (sea cual sea su sufrimiento). La pregunta que podríamos hacernos ahora es: ¿Debería Dios evitar esas cuatro ocaciones de sufrimiento o sería suficiente con evitar su sufrimiento al menos una vez?
 
-El pensar en esto nos trae a evaluar lo que ignoramos, ciertamente no sabemos cuántas veces Dios ha evitado que suframos, pero también es irreal un escenario donde "no suframos" pues, un mundo sin sufrimiento es un mundo donde no existe el pecado. Dicho de otra manera, si Dios "evitara" todo nuestro sufrimiento, no podríamos decir que vivimos en un mundo donde existe el pecado, pues no podríamos percibir lo que produce el pecado (sufrimiento), es interesante pensar que desde la visión cristiana incluso Jesús sufrió.
+El pensar en esto nos trae a evaluar lo que ignoramos, ciertamente no sabemos cuántas veces Dios ha evitado que suframos, pero también es irreal un escenario donde "no suframos" pues, un mundo sin sufrimiento es un mundo donde no existe el pecado. Dicho de otra manera, si Dios "evitara" todo nuestro sufrimiento, no podríamos decir que vivimos en un mundo donde existe el pecado, pues no podríamos percibir lo que produce el pecado (sufrimiento).
 
-Desde una perspectiva bíblica, tanto la percepción de la muerte como la vida están relacionada al sufrimiento, por ejemplo: el desgaste por la vejez, la muerte de personas queridas, el dolor de una enfermedad, etc. Todo esto es producto del pecado, así pues, para evitar el sufrimiento, debemos cambiar conceptualmente y realmente las implicaciones del pecado en el mundo. A esto podemos sumar que el sufrimiento es una realidad actual que cambiará según la promesa de redención del pecado, así que "quitar el sufrimiento" de esta realidad es imposible.
+Desde una perspectiva bíblica, tanto la percepción de la muerte como la vida están relacionada al sufrimiento, por ejemplo: el desgaste por la vejez, la muerte de personas queridas, el dolor causado por una enfermedad, etc. Todo esto es producto del pecado, así pues, para evitar el sufrimiento, debemos cambiar conceptualmente y realmente las implicaciones del pecado en el mundo. A esto podemos sumar que el sufrimiento es una realidad presente que cambiará según la promesa de redención, así que "quitar el sufrimiento" de esta realidad es imposible, pues es una promesa pendiente.
 
-Visto desde una perspectiva más "lógica", podemos decir que ya que el sufrimiento es la consecuencia de una secuencia de eventos, para quitar el evento que desencadena el sufrimiento es necesario modificar la historia, y esto se hace a costa de quitar la libertad de actuar al hombre, pero además, para quitar la "percepción del sufrimiento" debemos alterar la naturaleza del pecado, pero, esto se vuelve incoherente pues cambiar la naturaleza de algo hace que deje de ser lo que era, y ya no sería pecado.
+## Conclusión
 
-En última instancia, el sufrimiento (en sus diversas manifestaciones) existe por causa del pecado, o podemos decir que es la naturaleza del pecado, y cualquier escenario para evitar el sufrimiento debe a su vez cambiar la naturaleza del pecado.
+Visto desde una perspectiva lógica, podemos decir que ya que el sufrimiento es la consecuencia de una secuencia de eventos, para quitar el evento que desencadena el sufrimiento es necesario modificar la historia, y esto se hace a costa de quitar la libertad de actuar al hombre. Y asi también, para quitar la "percepción del sufrimiento" debemos alterar la naturaleza del pecado, pero, esa realidad pertenece a una promesa pendiente.
+
+En última instancia, el sufrimiento (en sus diversas manifestaciones) existe por causa del pecado, es decir, es la naturaleza del pecado, y cualquier escenario para evitar el sufrimiento implica cambiar la naturaleza del pecado.
 
 
 ## Explicación breve sobre las consecuencias del pecado
