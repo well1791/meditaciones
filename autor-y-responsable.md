@@ -24,7 +24,7 @@ Desde una perspectiva empírica se puede observar la diferencia usando como ejem
 
 1. El causante del problema es el subordinado, esto hace que el subordinado sea el "autor" del problema.
 1. El autor debe hacerse consecuente de sus actos en la medida posible.
-1. Si el autor no consigue resolver su problema, el supervisor se vuelve "responsable" del mismo, y como tal intentará resolver el problema.
+1. Aunque el autor no consiga resolver su problema, el supervisor ya es "responsable" del mismo, y como tal intentará resolverlo.
 1. El jefe recibe el reporte del supervisor, pero hay que considerar que el jefe es al mismo tiempo "responsable" de la compañía, así que si el problema hubiera escalado, en última instancia sería responsabilidad del jefe resolverlo.
 
 **Enseñanzas claves:**
@@ -32,7 +32,4 @@ Desde una perspectiva empírica se puede observar la diferencia usando como ejem
 * Un autor debe ser responsable de sus decisiones
 * Un responsable no es necesariamente un autor
 
-Así pues la carga del responsable no es igual a la carga del autor.
-
-[^1]:
-[^2]: https://dle.rae.es/responsable
+Así pues la carga del responsable no es igual a la carga del autor, porque se espera del responsable que pueda resolver lo que el autor no puede.
