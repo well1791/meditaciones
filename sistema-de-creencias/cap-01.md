@@ -26,7 +26,9 @@ Querido lector, mi consejo en este libro es proceder de la misma manera con que 
 
 ### La intención del mensaje
 
-Es común que en casi toda conversación haya un intercambio de preguntas y respuestas, pero es más común que al momento de expresarnos el mayor problema sea la comunicación! Comunicación es el acto de transmitir información, pero toda información depende de un contexto para tener sentido, es decir, transmitir cualquier dato al azar sin propósito de ser usado no es comunicación. Imagina por un momento que estas cruzando por la calle y escuchas estas preguntas:
+Es común que en casi toda conversación haya un intercambio de preguntas y respuestas, pero es más común que al momento de expresarnos el mayor problema sea la comunicación!
+
+Comunicación es el acto de transmitir información, pero toda información depende de un contexto para tener sentido, es decir, transmitir cualquier dato al azar sin propósito de ser usado no es comunicación. Imagina por un momento que estas cruzando por la calle y escuchas estas preguntas:
 
   * ¿Por qué el cielo es gris?
   * ¿Para qué el pasto rojo?
