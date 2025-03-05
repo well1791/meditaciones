@@ -31,6 +31,11 @@ En definitivamente el conocimiento es una condición necesaria de la adoración.
 
 ## El conocimiento y el comportamiento
 
-Es cierto que en general se tiende a asociar el comportamiento con el conocimiento, por ejemplo: se espera que alguien que sabe hacer lo bueno haga lo bueno, así también si sabe evitar lo malo pues que actúe de tal manera, pero, la realidad demuestra otra cosa. Así pues, el que alguien sepa algo no implica que deba actuar en pos de lo que sabe.
+Es cierto que en general se tiende a asociar el comportamiento con el conocimiento, por ejemplo: se espera que alguien que sabe hacer lo bueno haga lo bueno, así también si sabe evitar lo malo pues que actúe de tal manera, pero, la realidad demuestra otra cosa, así pues, el que alguien sepa algo no implica que deba actuar en pos de lo que sabe.
 
-Esto explica algo interesante sobre la adoración, pues, la adoración es íntegra en cuanto al conocimiento y el comportamiento.
+Esto explica algo interesante sobre la adoración, pues, la adoración es íntegra en cuanto al conocimiento y el comportamiento, esto significa que quien adora se comporta de tal manera que refleja su conocimiento.
+
+
+## Conclusión
+
+La expresión de la adoración se demuestra en el conocimiento y el comportamiento, cualquier otra apariencia de adoración es una expresión superficial o falsa.
