@@ -74,13 +74,13 @@ En un mundo donde solo se puede sentir el placer físico produce un escenario mu
 
 Sin embargo, a pesar de haber explorado el sufrimiento bajo la percepción de las emociones y el sentir físico, nada de esto parece ser suficiente para entender el sufrimiento. Dicho de otra manera, lo expuesto anteriormente no responde la perspectiva del sufrimiento, porque aún pudieramos sugerir que el dolor es necesario pero el sufrimiento no, y de alguna manera pudieramos trazar la linea que divide el dolor del sufrimiento, y entonces, la pregunta que aún queda en el aire es: ¿Por qué Dios permite el sufrimiento?
 
-Primero, debemos entender que el sufrimiento es la consecuencia natural de la libertad del hombre, una consecuencia que pudiera tardar años, décadas o incluso generaciones en surtir efecto. Esto lo vemos en la historia de los genocidios, pues todo asesino es el resultado de su juventud y niñez; lo vemos en el deterioro genético y enfermedades congénitas en parte debido a la endogamia, pero también a la exposición de elementos radiactivos, o al consumo de sustancias cancerigenas; vemos que ahora hay noticias relacionadas a los alimentos que contienen microplásticos, lo vemos en los sistemas de gobierno, en la riqueza y pobreza del mundo pues son el resultado de las decisiones de muchos años antes, lo vemos en los cataclismos naturales a causa del calentamiento global que tuvo sus inicios desde la era industrial y ahora percibimos las consecuencias. En resumen, el sufrimiento es un evento más de una secuencia de eventos.
+Primero, debemos entender que el sufrimiento es la consecuencia natural de la libertad del hombre, una consecuencia que pudiera tardar años, décadas o incluso generaciones en surtir efecto. Esto lo vemos en la historia de los genocidios, pues todo asesino es el resultado de su juventud y niñez; lo vemos en el deterioro genético y enfermedades congénitas en parte debido a la endogamia, pero también a la exposición de elementos radiactivos, o al consumo de sustancias cancerigenas; vemos que ahora hay noticias relacionadas a los alimentos que contienen microplásticos, lo vemos en los sistemas de gobierno, en la riqueza y pobreza del mundo pues son el resultado de las decisiones de muchos años antes, lo vemos en los cataclismos naturales a causa del calentamiento global que tuvo sus inicios en la era industrial y que ahora percibimos las consecuencias. En resumen, el sufrimiento es un evento más de una secuencia de eventos.
 
-Pero, el hasta el creyente puede pensar "¿Si Dios hace milagros, acaso no debería hacer milagros para evitar el sufrimiento?"
+Pero, tanto el escéptico como el creyente pueden pensar "¿Si Dios hace milagros, acaso no debería hacer milagros para evitar el sufrimiento?"
 
-No, porque si los milagros se hicieran con la misma frecuencia que los sucesos normales, entonces ya no serían milagros, pues los milagros son excepciones a la norma. Pero, es importante entender "la norma", pues es Dios quien hace que el mundo sea consistente, o acaso, ¿Cuándo ha dejado de ser la ley de gravedad? o ¿Cuándo el agua ha dejado de ser fluida? o ¿Cuándo el aire se ha vuelto pesado? ¿Quién explica el comportamiento de los átomos, o de otros microorganismos? Todo esto que obviamos es necesario para habitar en el mundo, pues es gracias a esta consistencia que existe la ciencia y tecnología, y que podemos anticipar el deseo de comer y preferir una comida a otra, pues si todo fuera un milagro, ¿Cómo puedes saber qué comida decidir si los sabores nunca fueran los mismos, porque los milagros afectan la consistencia del mundo? Si Dios hiciera milagros para evitar el sufrimiento, el mundo perdería su consistencia, y el conocimiento que tenemos de cómo funciona el mundo sería imposible.
+No, porque si los milagros se hicieran con la misma frecuencia que los sucesos normales, entonces ya no serían milagros, pues los milagros son excepciones a la norma. Pero, es importante entender "la norma", pues es Dios quien hace que el mundo sea consistente, o acaso, ¿Cuándo ha dejado de ser la ley de gravedad? o ¿Cuándo el agua ha dejado de ser fluida? o ¿Cuándo el aire se ha vuelto pesado? ¿Quién explica el comportamiento de los átomos, o de otros microorganismos? Todo esto que obviamos es necesario para habitar en el mundo, pues es gracias a esta consistencia que existe la ciencia y tecnología, y que podemos anticipar el deseo de comer y preferir una comida a otra, pues si todo fuera un milagro, ¿Cómo puedes saber qué comida decidir si los sabores nunca fueran los mismos? Porque los milagros alteran la consistencia del mundo, entonces, si Dios hiciera milagros para evitar el sufrimiento, el mundo perdería su consistencia, y el conocimiento que tenemos de cómo funciona el mundo sería imposible.
 
-Así pues, los milagros no son la solución, pero, aún así podemos seguir sugiriendo ideas para evitar el sufrimiento, como plantear el sufrimiento desde la perspectiva del "evento", es decir, pudiera Dios:
+Así pues, los milagros no son la solución pero, buscando soluciones aún podemos sugerir un par de ideas más si planteamos el sufrimiento desde la perspectiva del "evento", entonces, pudiera Dios:
 
   - Evitar o cambiar el evento que desencadena el sufrimiento
   - Evitar el sufrimiento percibido durante un evento
@@ -139,3 +139,25 @@ Estos puntos explican parte de las consecuencias del pecado:
 
   - Dios y el hombre ya no tienen una relación directa, esto suele ser llamado "muerte espiritual".
   - La muerte física entra al mundo y ahora el hombre también muere físicamente.
+
+
+## El sufrimiento desde una perspectiva bíblica
+
+Ya que el sufrimiento es la consecuencia del pecado, Dios usa el sufrimiento para mostrar su propia gloria.
+
+
+### El sufrimiento de Job
+
+Al inicio de Job vemos como satanás es impedido de tocar a Job y todo lo que tiene, pero también vemos a Dios permitiendo el sufrimiento que Job ha de recibir, así que podemos concluir que Dios está en control del sufrimiento.
+
+  - Dios evita el sufrimiento.
+  - Dios permite el sufrimiento.
+
+
+### El sufrimiento de Jesús
+
+
+
+### Isaías 45:7
+
+### El sufrimiento de Jesús
