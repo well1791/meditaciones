@@ -4,38 +4,40 @@ Es un tema filosófico que intenta responder de forma satisfactoria la relación
 
 El problema se plantea con base en estas premisas:
 
-  * ¿Existe el mal? Respuesta, sí porque ciertamente existe una apreciación innata de aquello que consideramos malo, como el sufrimiento o la injusticia, por ejemplo. Sin embargo, también es cierto que no existe una definición concreta del mal que sea satisfactoria para todo y en el mismo sentido, es decir, la percepción tiende a verse como subjetiva.
-  * ¿Existe Dios? Sí existe.
+  * ¿Existe el mal?
+    * Respuesta: Sí existe.
+    * Explicacion: En la mayoria de personas existe una apreciación innata de lo que se considera malo, como el sufrimiento o la injusticia; por ejemplo. Sin embargo, también es cierto que no existe una definición concreta del mal que sea satisfactoria para todo y en el mismo sentido.
+  * ¿Existe Dios? Respuesta: Sí existe.
 
-Ahora, la segunda pregunta presupone muchos detalles sobre Dios, pero, voy a a enfocarme concretamente en aquellas dos características que son parte del problema.
+Ahora, la segunda pregunta presupone muchos detalles sobre Dios y sus atributos, pero, voy a a enfocarme concretamente en aquellas dos atributos que son parte del problema.
 
   * Dios es omnipotente.
   * Dios es bueno.
 
 Luego, usando estas premisas, se plantea que:
 
-  * Si Dios es omnipotente, entonces, ¿Puede Dios eliminar el mal?
-    * Si no puede, entonces no es omnipotente.
-  * Si Dios es bueno, entonces, ¿Quiere Dios eliminar el mal?
-    * Si no quiere, entonces no es bueno.
-  * Si Dios puede y quiere eliminar el mal, entonces, ¿Por qué aún existe el mal?
-    * Si Dios puede y no quiere eliminar el mal, entonces, no es bueno.
-    * Si Dios quiere y no puede eliminar el mal, entonces, no es omnipotente.
-  * En última instancia
-    * Si Dios no es omnipotente, entonces no es Dios.
-    * Si Dios no es bueno, hay que desecharlo.
+  * Pregunta 1: Si Dios es omnipotente, entonces, ¿Puede Dios eliminar el mal?
+    * Respuesta 1: Si no puede, entonces no es omnipotente.
+  * Pregunta 2: Si Dios es bueno, entonces, ¿Quiere Dios eliminar el mal?
+    * Respuesta 2: Si no quiere, entonces no es bueno.
+  * Pregunta 1 y 2: Si Dios puede y quiere eliminar el mal, entonces, ¿Por qué aún existe el mal?
+    * Respuesta 1: Si Dios puede y no quiere eliminar el mal, entonces, no es bueno.
+    * Respuesta 2: Si Dios quiere y no puede eliminar el mal, entonces, no es omnipotente.
+  * Conclusion
+    * Respuesta: Si Dios no es omnipotente, entonces, no es Dios.
+    * Respuesta: Si Dios no es bueno, entonces, es malo, por tanto: hay que desecharlo.
 
-Este problema realmente esconde otro. Presume la definición de "bueno", además, es erroneo asumir que esta misma definición puede usarse de forma equivalente o intercambiable desde la perspectiva de Dios y el ser humano.
+Este problema realmente esconde otro: presume la definición de "bueno". Además, es erroneo asumir que esta misma definición puede usarse de forma equivalente o intercambiable desde la perspectiva de Dios y el ser humano.
 
-Si consideramos que la característica de que Dios sea bueno es afirmativa según la biblia, es decir, estamos tomando como verdad que la biblia dice "Dios es bueno", entonces, el problema del planteamiento está en no desarrollar la misma definición de "bueno" y "malo" a la luz de la biblia, como consecuencia, esto hace que caigamos en la trampa de querer resolver el problema usando significados y perspectivas que muy pudieran ser mutualmente excluyentes.
+Si consideramos que el atributo de que Dios sea bueno es afirmativo según la biblia, entonces, estamos tomando como verdad que la biblia dice "Dios es bueno", por tanto, el problema del planteamiento está en no desarrollar la misma definición de "bueno" y "malo" a la luz de la biblia, como consecuencia, esto hace que caigamos en la trampa de querer resolver el problema usando significados y perspectivas que pudieran ser mutualmente excluyentes.
 
 Usualmente cuando pensamos en las definiciones de "bueno" y "malo" tenemos mayormente una opinión popular "humanista", pero, evidentemente la misma definición no es totalmente satisfactoria para otras formas de pensamiento contemporaneo, ejemplo: lo que es bueno desde la perspectiva del veganismo, no es necesariamente bueno desde la perspectiva del budismo.
 
 ## La importancia de la fuente
 
-Cuando escuchamos una noticia por radio, o alguien contando una anécdota de su pasado, ¿Qué es más fácil de creer, la noticia o la anécdota? Si pensamos en esta pregunta desde otra perspectiva, decimos que quien transmite la noticia, al igual que quien narra la anécdota; probablemente sean testigos presenciales de lo que transmiten, pero, respecto a nosotros que solo escuchamos el mensaje y no somos testigos de nada, podríamos pensar, ¿Por qué deberíamos creer lo que dice?
+Cuando escuchamos una noticia por radio, o alguien contando una anécdota de su pasado, ¿Qué es más fácil de creer, la noticia o la anécdota? Si pensamos en esta pregunta desde otra perspectiva, decimos que quien transmite la noticia, al igual que quien narra la anécdota; ambos tal vez sean testigos presenciales de lo que transmiten, pero, respecto a nosotros que solo escuchamos el mensaje y no somos testigos de nada, pudieramos pensar, ¿Por qué deberíamos creer lo que dice?
 
-Esta pregunta ha sido planteada muchas veces, en muchos lugares, en diferentes épocas, y con diferentes situaciones. Obviamente la respuesta no es tan fácil como quisieramos, además, dependiendo del caso hay varias formas de investigación que evidencian si el testigo o la información son verdad. Sin embargo, también es cierto que existen casos donde se concluye que no hay forma de comprobar en absoluto la veracidad del mensaje, pero, algo que podemos observar empíricamente, es que todas las cosas que tienen respuesta, al final demuestran ser coherentes, razonables o simplemente tienen sentido.
+Esta pregunta ha sido planteada muchas veces, en muchos lugares, en diferentes épocas, y con diferentes situaciones. Obviamente la respuesta no es tan fácil como quisieramos, además, dependiendo del caso hay varias formas de investigación que evidencian si el testigo y/o la información son verdad. Sin embargo, también es cierto que existen casos donde se concluye que no hay forma de comprobar en absoluto la veracidad del mensaje, pero, algo que podemos observar empíricamente, es que todas las cosas que tienen respuesta, al final demuestran ser coherentes, razonables o simplemente tienen sentido.
 
 Analisemos el siguiente ejemplo, si yo tiro una piedra al aire en línea recta, y empiezo a contar a otras personas que hubo una piedra que habiendo sido lanzada al aire se mantuvo flotando en el espacio a tres metros de distancia del suelo, por un día entero, y que finalmente cayó al suelo la noche siguiente. Es muy probable que ningún adulto lo crea. Eso sucede porque a cierta edad, hemos aceptado ciertos fenómenos como naturales y lógicos, y generalmente, este conocimiento que ya hemos aceptado no es exahustivamente cuestionado, así pues, cuando analisamos cualquier mensaje que recibimos, y observamos la posibilidad de las situaciones de acuerdo a nuestra experiencia, concluimos si el mensaje puede ser creible o no.
 
@@ -43,7 +45,7 @@ En términos simples, es más fácil creer una experiencia personal, precisament
 
 Así pues, siguiendo el ejemplo de la piedra en el aire, bien podríamos recibir la siguiente pregunta, ¿Por qué estás seguro de que toda piedra que es lanzada al aire debe volver a caer? Y nuestra respuesta debería ser simplemente "por experiencia", es decir, hemos sido testigos de esta situación las veces suficientes para estar convencidos de lo que sucederá solo con escuchar la mitad de la historia. Si cualquiera tira una piedra al aire, lo siguiente es esperar que la misma piedra caiga, independientemente de si sabemos o no las leyes de la física que están envueltas en este fenómeno, pero, esta experiencia realmente no responde la pregunta formulada en este párrafo, es decir, ¿Cómo estoy seguro de que realmente a "todas totalmente todas las piedras" les sucede exactamente igual?
 
-Ahora bien, esta última pregunta realmente no necesita ser respondida, lo que quiero enfocar ahora no es la convicción del conocimiento, sino la fuente de la evidencia. Comunmente cuando hay preguntas difíciles de responder, sucede a menudo que existe un problema de perspectivas, de ambiguedad, de malinterpretación del mensaje, y por eso, en estas situaciones el enfoque debe dirigirse a la fuente de la evidencia, en lugar de la evidencia en sí misma.
+Ahora bien, esta última pregunta realmente no necesita ser respondida, porque es un tema sin fin desde la filosofia. Para ser pragmaticos no quiero enfocar ahora la convicción del conocimiento, sino la fuente de la evidencia. Comunmente cuando hay preguntas difíciles de responder, sucede a menudo que existe un problema de perspectivas, de ambiguedad, de malinterpretación del mensaje, y por eso, en estas situaciones el enfoque debe dirigirse a la fuente de la evidencia, en lugar de la evidencia en sí misma.
 
 Si retomamos las premisas que plantea el problema del mal y las comparamos con el ejemplo de la piedra en el aire, podríamos hacer las siguientes relaciones.
 
