@@ -20,20 +20,20 @@ Creo que es evidente que la adoración y conocimiento van de la mano, y es inter
 
 ¿Es necesario el conocimiento para adorar?
 
-Imaginemos por un momento un fan de football que únicamente disfruta de ir a los estadios a festejar (sin preferencia de equipo). Ciertamente aquellos "verdaderos fans" no tendrán una conversación placentera con una persona así, y la razón es bastante simple.
+Imaginemos por un momento un "fan" de football que no tiene idea en absoluto de football, entonces surge la duda, acaso sera entretenida una conversacion entre esta persona y un "verdaderos fan".
 
-El conocimiento es una muestra directa del interés que una persona tiene sobre algo o alguien. En la adoración es implicíto que debe haber un interés genuino en cuanto lo que se dice adorar, y el interés produce conocimiento, en su defecto; la falta de conocimiento demuestra la falta de interés.
+El conocimiento es una muestra directa del interés que una persona tiene. En la adoración es implicíto que debe haber un interés genuino en cuanto lo que se dice adorar, y el interés produce conocimiento, o dicho de otra manera; la falta de conocimiento puede demostrar la falta de interés en proporcion al tiempo, es decir a mayor tiempo sin conocimiento, mayor desinteres.
 
-Visto desde una perspectiva opuesta, si alguien se interesara en mi, de alguna manera debe de conocer mi vida y particularmente por personalidad, luego llevando esta busqueda de conocimiento constante al extremo, bien podría considerarse una obsesión, pero también es adoración. Así también podríamos modificar un poco el mismo ejemplo e imaginar que si su interés excluyera el querer conocer mi personalidad personalidad, a mi criterio esto sería un tipo de adoración superficial, de hecho, hay muchas parejas que tiene conflictos de relación precisamente por la falta de interés sobre la personalidad de la otra persona.
+Visto desde una perspectiva controvertida, si alguien se interesara en mi, de alguna manera debe de conocer mi vida y particularmente mi personalidad. Luego, llevando esta busqueda de conocimiento constante al extremo, bien podría considerarse una obsesión, pero esto al final también es adoración. Así también, podríamos modificar un poco el mismo ejemplo e imaginar que si su interés excluyera el querer conocer mi personalidad personalidad, a mi criterio esto sería un tipo de adoración superficial, de hecho, hay muchas parejas que tiene conflictos de relación precisamente por la falta de interés sobre la personalidad de la otra persona.
 
 En definitivamente el conocimiento es una condición necesaria de la adoración.
 
 
 ## El conocimiento y el comportamiento
 
-Es cierto que en general se tiende a asociar el comportamiento con el conocimiento, por ejemplo: se espera que alguien que sabe hacer lo bueno haga lo bueno, así también si sabe evitar lo malo pues que actúe de tal manera, pero, la realidad demuestra otra cosa, así pues, el que alguien sepa algo no implica que deba actuar en pos de lo que sabe.
+Es cierto que en general se tiende a asociar el comportamiento con el conocimiento, por ejemplo: se espera que alguien que sabe hacer lo bueno haga lo bueno, así también si sabe evitar lo malo pues que actúe de tal manera, pero, la realidad demuestra otra cosa, así pues, el hecho de que alguien sepa algo no implica que deba actuar en pos de lo que sabe.
 
-Esto explica algo interesante sobre la adoración, pues, la adoración es íntegra en cuanto al conocimiento y el comportamiento, esto significa que quien adora se comporta de tal manera que refleja su conocimiento.
+Esto contrasta algo interesante sobre la adoración, pues, la adoración es íntegra en cuanto al conocimiento y el comportamiento, esto significa que quien adora se comporta de tal manera que refleja su conocimiento.
 
 
 ## Conclusión

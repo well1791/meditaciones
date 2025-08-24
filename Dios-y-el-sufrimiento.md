@@ -57,9 +57,9 @@ Y evaluemos las dos opciones que evitan el sufrimiento:
   - Sentir solo placer físico
 
 
-### Escenario 1: No sentir nada en absoluto
+### Escenario 1: No poder percibir sensaciones fisicas en absoluto
 
-En un mundo donde no es posible sentir físicamente nada, en primer lugar no tiene sentido tener cuerpos, lo más razonable sería que todos seamos espíritus, y sobre esto evaluar que sentido tiene que siendo espirítus tengamos alguna percepción de emociones.
+En un mundo donde no es posible sentir físicamente nada, en primer lugar no tiene sentido tener cuerpos, precisamente porque el cuerpo necesita indicadores de dolor para protegerlo o restaurarlo, lo más razonable sería que todos seamos espíritus, y sobre esto evaluar que sentido tiene que siendo espirítus tengamos alguna percepción de emociones.
 
 Pero, consideremos un mundo sin dolor/placer donde las sensaciones del cuerpo son nulas, y por ejemplo: se siente exactamente igual estar en movimiento, o sentado, o de pie, o acostado. Esto hace sin sentido el uso de nervios, incapaces de sentir sabor, contacto físico, frío y calor; nuestro diseño como humanos sería totalmente diferente, y a su vez, también nuestro sentido de moralidad pues, en un mundo así no se puede justificar el maltrato "físico" principalmente porque "no se siente".
 
