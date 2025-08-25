@@ -6,13 +6,11 @@
 
 ## Prefacio
 
-Este libro es el resultado de yo queriendo acomodar y ordenar mis ideas a fin de poder expresarlas de mejor manera a quien lo necesite. Además, no planteo hacer una defensa absoluta de todo lo que he escrito, ni quiero profundizar en ideas que, según mi juicio, probablemente no tengan mayor utilidad práctica.
-
-Aparte, estoy seguro de que muchos de los temas que toco brevemente en este libro son desarrollados con mayor profundidad por muchos otros filósofos, pero, honestamente no me he dado el tiempo de estudiar a ninguno en particular con la misma profundidad con la que me he puesto a meditar en lo que he escrito. Así pues, si en algún momento sé que estoy citando a un filósofo en particular citaré su nombre, mientras tanto, no puedo decir absolutamente nada sobre aquellos conceptos que coinciden con otros filósofos que simplemente no conozco.
-
-Finalmente, yo creo que la capacidad de meditar y analizar está en todos aquellos que quieren hacerlo, y las conclusiones que coinciden en diferente tiempo y espacio, son propiedad de la capacidad del ser humano, mas no de ninguna identidad en particular.
+Este trabajo es el resultado de querer ordenar mis ideas sin animo de hacer una defensa absoluta de todo lo que he escrito, por la misma razon no veo prudente profundizar en ideas que seguramente ya son desarrolladas con mayor discplina por muchos otros filósofos. En cuanto a los temas, advierto que no he estudiado ningun filosofo en profundidad, pero, si en el transcurso reconozco el merito de algun autor, hare mi esfuerzo por citarlo como corresponde, mientras tanto, no puedo decir absolutamente nada sobre aquellos conceptos que coinciden con otros filósofos que simplemente no conozco.
 
 ## ¿Qué es un sistema de creencias?
+
+Entre otrs cosas: es lo que da sentido y direccion a la cosmovision, es lo que explica lo que el proposito y fin de las 
 
 La mejor forma de responder esta pregunta es con una secuencia de preguntas, y la razón de esto es que explicar el significado de algo complejo tiende a ser mejor entendido cuando se ejerce una y otra vez el mismo concepto, así pues, esta introducción empieza cuestionando al lector con esta pregunta: ¿Alguna vez has conversado con alguien que parece usar sus palabras con una precisión extraña?
 
